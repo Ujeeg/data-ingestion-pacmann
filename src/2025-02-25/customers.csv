@@ -1,0 +1,1001 @@
+cust_id,name,phone,address,city,province
+1,PT Nuraini Tbk,(070) 602-8828,Gang Tebet Barat Dalam No. 5,Bekasi,Jawa Barat
+2,PT Hariyah,(0130) 156 5916,Gg. Ciwastra No. 3,Bekasi,Jawa Barat
+3,CV Farida Budiman Tbk,081 016 2783,Gg. Kiaracondong No. 217,Jakarta Timur,Jakarta
+4,Perum Firmansyah (Persero) Tbk,+62-034-551-1097,Jalan Antapani Lama No. 256,Jakarta Pusat,Jakarta
+5,PD Saefullah Lestari Tbk,(0208) 127 0881,Gang Rajawali Barat No. 152,Jakarta Barat,Jakarta
+6,Perum Adriansyah Saputra,0894221501,Jalan Ronggowarsito No. 873,Jakarta Timur,Jakarta
+7,PD Prasetya,+62 (081) 511-6529,Jl. Rungkut Industri No. 38,Bekasi,Jawa Barat
+8,PD Mansur Riyanti (Persero) Tbk,+62 (902) 489 8597,Jl. Gegerkalong Hilir No. 979,Jakarta Timur,Jakarta
+9,PD Latupono Samosir (Persero) Tbk,(099) 216-3171,Jl. Cikutra Timur No. 75,Jakarta Barat,Jakarta
+10,PT Budiyanto Tbk,+62-06-726-5260,Gg. Kapten Muslihat No. 05,Tangerang Selatan,Banten
+11,PT Novitasari Winarno Tbk,+62 (0957) 708-9118,Gang Ciumbuleuit No. 22,Depok,Jawa Barat
+12,PT Nainggolan Mulyani (Persero) Tbk,+62-099-843-3991,Gg. M.H Thamrin No. 5,Jakarta Barat,Jakarta
+13,Perum Sitorus Tampubolon (Persero) Tbk,+62 (0462) 159 6542,Jalan Antapani Lama No. 2,Jakarta Timur,Jakarta
+14,Perum Wacana,+62-635-135-5048,Jalan Sukajadi No. 1,Bekasi,Jawa Barat
+15,UD Uwais Palastri (Persero) Tbk,+62-068-350-3355,Gang Cikutra Timur No. 5,Tangerang Selatan,Banten
+16,Perum Kusmawati Widodo,(008) 384-5089,Jl. Merdeka No. 0,Jakarta Pusat,Jakarta
+17,UD Rajata,(0998) 652 2412,Jalan Yos Sudarso No. 1,Depok,Jawa Barat
+18,CV Handayani Ardianto (Persero) Tbk,+62 (370) 443 8732,Gg. Cikapayang No. 070,Bogor,Jawa Barat
+19,CV Safitri Tbk,+62-594-395-1933,Jl. Ciwastra No. 7,Bekasi,Jawa Barat
+20,PT Suryono Mustofa Tbk,(0477) 071-7292,Gg. M.T Haryono No. 71,Depok,Jawa Barat
+21,PD Hardiansyah,+62-473-406-4283,Gang Laswi No. 0,Jakarta Timur,Jakarta
+22,PT Irawan,(0594) 034 4653,Jalan Joyoboyo No. 36,Bekasi,Jawa Barat
+23,PT Lestari Pradana,0807546319,Gang Monginsidi No. 32,Depok,Jawa Barat
+24,CV Agustina Nashiruddin Tbk,(032) 321 2831,Jalan Pasir Koja No. 1,Tangerang,Banten
+25,Perum Najmudin (Persero) Tbk,(019) 011 1576,Gang Jend. A. Yani No. 355,Jakarta Barat,Jakarta
+26,CV Widodo Hasanah (Persero) Tbk,(0283) 429-0461,Jl. Indragiri No. 148,Jakarta Selatan,Jakarta
+27,PD Firmansyah Sitompul,+62-59-962-5955,Gg. Kutisari Selatan No. 5,Jakarta Barat,Jakarta
+28,Perum Santoso Wibisono,(0638) 908 0532,Jl. Peta No. 33,Tangerang Selatan,Banten
+29,PD Prasetya (Persero) Tbk,+62-0264-288-5963,Jl. Cikapayang No. 48,Depok,Jawa Barat
+30,PD Safitri Rahayu Tbk,(040) 367 2311,Jl. Jend. Sudirman No. 63,Bogor,Jawa Barat
+31,PT Hariyah (Persero) Tbk,+62 (0514) 682-4868,Gang KH Amin Jasuta No. 7,Jakarta Barat,Jakarta
+32,CV Nuraini (Persero) Tbk,+62 (72) 503 3392,Jalan Monginsidi No. 85,Depok,Jawa Barat
+33,PD Zulkarnain Novitasari Tbk,(022) 303 6512,Gang Ahmad Yani No. 290,Jakarta Pusat,Jakarta
+34,CV Januar,+62 (02) 929-1268,Jalan Ciumbuleuit No. 453,Bekasi,Jawa Barat
+35,PT Ramadan (Persero) Tbk,084 918 4253,Gg. Jend. Sudirman No. 451,Jakarta Barat,Jakarta
+36,CV Usada Tbk,(0066) 891 7955,Gang Pasir Koja No. 8,Jakarta Utara,Jakarta
+37,PT Safitri Tbk,+62 (39) 138-8828,Jalan Rawamangun No. 90,Tangerang,Banten
+38,Perum Megantara Hidayat,+62 (0965) 632 1526,Gang Rawamangun No. 3,Jakarta Timur,Jakarta
+39,UD Sihombing Namaga (Persero) Tbk,(084) 030 3140,Jl. Jend. Sudirman No. 0,Bekasi,Jawa Barat
+40,PT Sudiati Budiman,+62 (0095) 417 0263,Gg. Gegerkalong Hilir No. 526,Tangerang,Banten
+41,PD Najmudin Fujiati Tbk,+62 (015) 387 9255,Jl. Kapten Muslihat No. 53,Jakarta Utara,Jakarta
+42,CV Aryani Hutagalung,+62 (072) 078-4275,Jalan Pelajar Pejuang No. 5,Jakarta Barat,Jakarta
+43,CV Saptono Damanik,+62 (64) 852-6576,Gg. Merdeka No. 47,Depok,Jawa Barat
+44,UD Mustofa (Persero) Tbk,0800630856,Jl. Jamika No. 4,Jakarta Pusat,Jakarta
+45,PD Haryanti Zulaika Tbk,+62-0741-891-0590,Jalan Joyoboyo No. 82,Jakarta Timur,Jakarta
+46,PT Laksita Setiawan (Persero) Tbk,+62 (15) 499-8341,Gang Sadang Serang No. 7,Depok,Jawa Barat
+47,Perum Marpaung Prakasa,+62 (782) 391 5060,Gg. Cikutra Timur No. 8,Jakarta Selatan,Jakarta
+48,CV Dongoran,+62 (0601) 502 1742,Jl. Moch. Toha No. 20,Tangerang Selatan,Banten
+49,CV Pratama (Persero) Tbk,(0738) 060 3865,Jl. Laswi No. 0,Jakarta Pusat,Jakarta
+50,CV Mustofa Namaga,+62 (87) 146 2348,Gang Waringin No. 1,Bogor,Jawa Barat
+51,Perum Pertiwi Sudiati Tbk,(067) 471 4889,Jl. HOS. Cokroaminoto No. 722,Bekasi,Jawa Barat
+52,UD Prastuti Habibi (Persero) Tbk,+62 (067) 346 3967,Jalan Tubagus Ismail No. 58,Jakarta Barat,Jakarta
+53,CV Mardhiyah Widiastuti (Persero) Tbk,+62 (0006) 231 0505,Gg. Antapani Lama No. 6,Jakarta Utara,Jakarta
+54,PD Yolanda Tbk,+62 (529) 435-1293,Gang Pelajar Pejuang No. 7,Jakarta Timur,Jakarta
+55,CV Riyanti Utami (Persero) Tbk,+62 (846) 700-6805,Gg. Ir. H. Djuanda No. 60,Jakarta Barat,Jakarta
+56,PD Purnawati,+62 (01) 463 0279,Jalan Raya Setiabudhi No. 032,Depok,Jawa Barat
+57,CV Laksmiwati,+62 (34) 151 2962,Jalan Pasirkoja No. 0,Jakarta Selatan,Jakarta
+58,Perum Sudiati Wastuti (Persero) Tbk,+62 (0545) 068 3094,Jalan M.T Haryono No. 091,Jakarta Barat,Jakarta
+59,Perum Nasyiah Purwanti Tbk,0866694678,Gang Kutisari Selatan No. 546,Tangerang,Banten
+60,Perum Manullang Tbk,+62 (92) 783-3753,Gang Rungkut Industri No. 8,Jakarta Barat,Jakarta
+61,PD Permata Usada Tbk,+62 (144) 809 9523,Jalan Rajawali Barat No. 2,Bekasi,Jawa Barat
+62,UD Anggraini Napitupulu Tbk,+62-868-690-1996,Jalan Astana Anyar No. 92,Jakarta Barat,Jakarta
+63,CV Nasyiah,+62-009-642-3929,Jl. KH Amin Jasuta No. 86,Bogor,Jawa Barat
+64,PT Pratama (Persero) Tbk,081 749 2229,Gg. K.H. Wahid Hasyim No. 97,Tangerang Selatan,Banten
+65,UD Maryadi Tbk,+62 (659) 655-9139,Jalan Rajawali Barat No. 42,Tangerang Selatan,Banten
+66,CV Marbun,(0014) 389 9898,Jalan S. Parman No. 0,Jakarta Barat,Jakarta
+67,PT Mulyani Najmudin (Persero) Tbk,(0855) 105-4103,Jalan K.H. Wahid Hasyim No. 7,Tangerang Selatan,Banten
+68,PT Usamah Tbk,+62-077-116-0605,Gang Rumah Sakit No. 399,Jakarta Timur,Jakarta
+69,PD Hutasoit,(008) 752 6444,Gang Jamika No. 920,Tangerang Selatan,Banten
+70,Perum Hartati Prasetyo (Persero) Tbk,+62 (0244) 862 5001,Jl. Ciumbuleuit No. 2,Jakarta Timur,Jakarta
+71,CV Ardianto (Persero) Tbk,+62-0696-785-8753,Gg. Gedebage Selatan No. 38,Jakarta Selatan,Jakarta
+72,Perum Najmudin (Persero) Tbk,(0592) 490-3654,Jalan Jayawijaya No. 18,Jakarta Selatan,Jakarta
+73,Perum Maheswara Rajata,+62 (0770) 972 2634,Jalan Pelajar Pejuang No. 264,Tangerang Selatan,Banten
+74,UD Wijaya Fujiati,(0194) 370 4222,Jalan Ciwastra No. 3,Tangerang,Banten
+75,PD Nasyidah Tbk,+62 (086) 967-4752,Gg. Pelajar Pejuang No. 853,Jakarta Barat,Jakarta
+76,Perum Lazuardi Tbk,+62 (587) 870-8367,Gg. Pasirkoja No. 4,Jakarta Utara,Jakarta
+77,Perum Gunawan,+62 (005) 709 8870,Gang Gegerkalong Hilir No. 23,Bekasi,Jawa Barat
+78,PT Hakim,087 470 6784,Jalan Indragiri No. 031,Depok,Jawa Barat
+79,CV Yulianti Usada (Persero) Tbk,+62 (066) 838 4186,Gang Erlangga No. 846,Depok,Jawa Barat
+80,UD Hastuti,(056) 045 8691,Gg. Yos Sudarso No. 210,Bekasi,Jawa Barat
+81,UD Waluyo (Persero) Tbk,+62 (45) 142 3031,Jl. Asia Afrika No. 1,Depok,Jawa Barat
+82,UD Narpati (Persero) Tbk,+62 (0082) 764 1787,Gg. S. Parman No. 0,Depok,Jawa Barat
+83,PT Hidayat Oktaviani,+62 (711) 050 9342,Gg. M.H Thamrin No. 31,Jakarta Barat,Jakarta
+84,Perum Sihombing Santoso,+62 (902) 199 8370,Gg. PHH. Mustofa No. 463,Jakarta Timur,Jakarta
+85,CV Gunarto (Persero) Tbk,+62 (0171) 484 4130,Gang Raya Ujungberung No. 9,Tangerang,Banten
+86,CV Prastuti,+62-18-330-2436,Gg. Astana Anyar No. 3,Jakarta Timur,Jakarta
+87,CV Zulkarnain,+62-079-645-2371,Gang Pasir Koja No. 1,Bekasi,Jawa Barat
+88,PT Dongoran Salahudin,+62 (0593) 888 8395,Jl. Gedebage Selatan No. 089,Bekasi,Jawa Barat
+89,PD Permadi Tbk,+62 (884) 415-5680,Jl. H.J Maemunah No. 9,Depok,Jawa Barat
+90,UD Siregar Natsir,(0228) 611-7403,Gg. Veteran No. 158,Tangerang Selatan,Banten
+91,Perum Prasetyo Prasasta Tbk,+62 (0631) 224-7131,Gg. Abdul Muis No. 2,Bogor,Jawa Barat
+92,Perum Santoso,(019) 143 2273,Gang Cempaka No. 39,Tangerang Selatan,Banten
+93,CV Rahayu Mangunsong Tbk,+62 (50) 214-9529,Jalan K.H. Wahid Hasyim No. 3,Jakarta Barat,Jakarta
+94,CV Damanik,+62 (0696) 278-3234,Jl. Abdul Muis No. 46,Tangerang,Banten
+95,CV Padmasari (Persero) Tbk,(0812) 547-6622,Gg. Kutai No. 4,Bogor,Jawa Barat
+96,CV Hardiansyah,+62 (005) 440 3105,Jl. Sukajadi No. 716,Depok,Jawa Barat
+97,Perum Hartati (Persero) Tbk,+62-030-297-3471,Jl. Rajawali Barat No. 72,Bekasi,Jawa Barat
+98,PT Laksita Adriansyah (Persero) Tbk,+62 (0518) 282-2046,Gang Lembong No. 841,Jakarta Utara,Jakarta
+99,CV Uwais Putra,+62 (0592) 832 9952,Gang Ciwastra No. 31,Tangerang Selatan,Banten
+100,UD Puspita Widiastuti (Persero) Tbk,(019) 946-4794,Jl. HOS. Cokroaminoto No. 140,Jakarta Barat,Jakarta
+101,Perum Zulkarnain Melani,(0972) 815-3679,Gang Rumah Sakit No. 56,Tangerang,Banten
+102,PT Padmasari Marpaung Tbk,+62 (0975) 840-2289,Jalan Bangka Raya No. 6,Bekasi,Jawa Barat
+103,PT Mandasari Safitri,+62-914-886-4450,Gang Indragiri No. 441,Jakarta Pusat,Jakarta
+104,Perum Widiastuti Yolanda,+62 (32) 176 1109,Jl. Raya Ujungberung No. 57,Bekasi,Jawa Barat
+105,PT Simanjuntak Halimah,(0769) 600 7822,Jalan Pasirkoja No. 63,Jakarta Selatan,Jakarta
+106,Perum Dabukke,+62 (09) 620-6859,Jl. Jend. Sudirman No. 82,Jakarta Pusat,Jakarta
+107,PT Suwarno,087 664 2105,Jalan Suryakencana No. 908,Bekasi,Jawa Barat
+108,PT Permadi Rajasa Tbk,+62-036-153-5548,Jl. BKR No. 692,Jakarta Timur,Jakarta
+109,PT Palastri,+62-028-293-1188,Gg. Ronggowarsito No. 92,Bekasi,Jawa Barat
+110,UD Usada Pranowo,085 027 2819,Gang Gedebage Selatan No. 43,Jakarta Selatan,Jakarta
+111,UD Anggraini Utami Tbk,+62-054-283-0067,Gg. Cikutra Barat No. 797,Jakarta Selatan,Jakarta
+112,PT Riyanti Purwanti (Persero) Tbk,+62-731-211-8895,Gang Soekarno Hatta No. 739,Tangerang,Banten
+113,UD Dongoran,+62 (23) 436 1717,Gg. K.H. Wahid Hasyim No. 98,Jakarta Utara,Jakarta
+114,CV Najmudin (Persero) Tbk,+62-0800-130-7034,Jalan BKR No. 28,Tangerang Selatan,Banten
+115,PT Saefullah,+62 (023) 612-8791,Jl. Stasiun Wonokromo No. 68,Depok,Jawa Barat
+116,CV Suryono (Persero) Tbk,+62 (099) 376 3981,Jalan HOS. Cokroaminoto No. 8,Jakarta Barat,Jakarta
+117,PD Nugroho,+62 (036) 420 0172,Jl. Kapten Muslihat No. 88,Tangerang,Banten
+118,Perum Dongoran (Persero) Tbk,+62-375-914-6373,Jalan Cikutra Barat No. 66,Jakarta Utara,Jakarta
+119,PD Agustina Mansur,0896982272,Gang Pasirkoja No. 67,Tangerang,Banten
+120,UD Zulkarnain Utama,(013) 155 4880,Jalan Gardujati No. 0,Tangerang Selatan,Banten
+121,UD Mandasari Pratiwi,+62 (856) 054 8603,Gang Sukajadi No. 10,Tangerang Selatan,Banten
+122,UD Susanti (Persero) Tbk,+62-18-738-6465,Gg. Ahmad Yani No. 823,Jakarta Timur,Jakarta
+123,PD Kusmawati (Persero) Tbk,+62 (0455) 286-2978,Jalan Joyoboyo No. 0,Jakarta Timur,Jakarta
+124,UD Rahmawati (Persero) Tbk,080 608 1044,Gg. Peta No. 81,Bogor,Jawa Barat
+125,PD Zulkarnain Hidayanto,(021) 531-5570,Gang Merdeka No. 133,Jakarta Utara,Jakarta
+126,Perum Wulandari,+62 (046) 751-3983,Gg. Dr. Djunjunan No. 78,Jakarta Utara,Jakarta
+127,Perum Budiman Tbk,+62-94-585-5631,Jalan Merdeka No. 546,Bogor,Jawa Barat
+128,UD Pangestu Ramadan,(084) 895 5676,Jalan Moch. Ramdan No. 0,Jakarta Selatan,Jakarta
+129,CV Winarsih,+62-68-253-8189,Gg. Peta No. 92,Jakarta Selatan,Jakarta
+130,Perum Waluyo (Persero) Tbk,+62 (0824) 682 4427,Gg. Jend. Sudirman No. 2,Jakarta Pusat,Jakarta
+131,PD Suryatmi Saefullah Tbk,(081) 897-0790,Gg. Lembong No. 754,Bekasi,Jawa Barat
+132,Perum Puspasari Wibowo,+62-05-030-2970,Jalan Ciwastra No. 501,Depok,Jawa Barat
+133,PT Hutapea Tbk,+62 (34) 188 3126,Jl. Cikapayang No. 72,Jakarta Utara,Jakarta
+134,PT Sihombing Tbk,+62-88-755-8292,Gg. Cikapayang No. 679,Jakarta Timur,Jakarta
+135,CV Simanjuntak Tbk,(014) 815-4596,Jalan Gegerkalong Hilir No. 5,Jakarta Selatan,Jakarta
+136,Perum Laksmiwati Tbk,(015) 532 7060,Jl. Suniaraja No. 860,Jakarta Pusat,Jakarta
+137,UD Pratiwi Thamrin,0802928550,Jl. Soekarno Hatta No. 9,Jakarta Pusat,Jakarta
+138,CV Santoso,+62 (022) 138 7979,Gg. Dipenogoro No. 9,Tangerang,Banten
+139,UD Nasyiah (Persero) Tbk,+62-0591-760-7684,Gg. Gedebage Selatan No. 1,Jakarta Timur,Jakarta
+140,CV Aryani,+62-25-164-2571,Gang Gegerkalong Hilir No. 2,Jakarta Selatan,Jakarta
+141,UD Hasanah (Persero) Tbk,(098) 069 3565,Jalan Pelajar Pejuang No. 6,Jakarta Barat,Jakarta
+142,UD Puspita Tbk,(0144) 539 7470,Gg. Waringin No. 49,Jakarta Utara,Jakarta
+143,Perum Kuswandari (Persero) Tbk,+62 (086) 855-4719,Gang Bangka Raya No. 9,Jakarta Selatan,Jakarta
+144,Perum Anggraini Hakim Tbk,+62 (81) 621 2547,Gang S. Parman No. 1,Bogor,Jawa Barat
+145,Perum Januar (Persero) Tbk,+62 (0536) 117-8378,Gang Pasteur No. 477,Jakarta Selatan,Jakarta
+146,PD Jailani Dabukke (Persero) Tbk,+62 (0077) 107-4581,Gang Pasirkoja No. 88,Jakarta Timur,Jakarta
+147,PT Prasetya Nababan,0818028413,Jl. W.R. Supratman No. 58,Bekasi,Jawa Barat
+148,UD Rajata,+62 (012) 018-4925,Jalan Peta No. 043,Bekasi,Jawa Barat
+149,PD Kuswoyo Setiawan (Persero) Tbk,(0205) 909-2002,Gang Pasirkoja No. 329,Depok,Jawa Barat
+150,PT Purnawati Sitompul (Persero) Tbk,+62-044-230-8869,Jl. Ir. H. Djuanda No. 903,Jakarta Selatan,Jakarta
+151,PD Pranowo Tbk,+62 (655) 627-4883,Jl. Cikapayang No. 611,Tangerang,Banten
+152,PD Situmorang Tbk,086 334 5047,Jalan Erlangga No. 049,Bogor,Jawa Barat
+153,Perum Situmorang,+62 (036) 327-8396,Gang Siliwangi No. 92,Jakarta Utara,Jakarta
+154,UD Usada Rahmawati Tbk,(0489) 281-9905,Gg. Sentot Alibasa No. 5,Tangerang,Banten
+155,Perum Habibi (Persero) Tbk,+62-450-730-0507,Gg. Kutai No. 071,Bekasi,Jawa Barat
+156,UD Saputra Oktaviani,+62 (068) 084 5585,Jalan Gedebage Selatan No. 465,Jakarta Timur,Jakarta
+157,PT Hidayat Tamba Tbk,+62 (151) 354 9746,Jalan Veteran No. 115,Jakarta Pusat,Jakarta
+158,UD Pertiwi Rajasa (Persero) Tbk,(097) 360-3263,Jalan Laswi No. 40,Tangerang Selatan,Banten
+159,UD Wasita Haryanti Tbk,+62 (022) 485 1429,Gang Stasiun Wonokromo No. 227,Jakarta Barat,Jakarta
+160,CV Prayoga,(0630) 376-1062,Gg. Cikapayang No. 3,Jakarta Selatan,Jakarta
+161,UD Uyainah,087 007 5884,Gg. K.H. Wahid Hasyim No. 7,Jakarta Barat,Jakarta
+162,CV Prasasta,+62-923-308-4901,Jalan Setiabudhi No. 90,Jakarta Timur,Jakarta
+163,CV Purwanti,089 283 4230,Gang Cempaka No. 102,Tangerang Selatan,Banten
+164,UD Lestari Haryanto (Persero) Tbk,+62 (081) 802-6153,Jl. Rajawali Barat No. 18,Jakarta Barat,Jakarta
+165,PT Melani Siregar (Persero) Tbk,+62-932-423-6223,Jalan Veteran No. 318,Jakarta Timur,Jakarta
+166,PT Purwanti Nugroho (Persero) Tbk,+62-056-504-9688,Jalan BKR No. 5,Jakarta Timur,Jakarta
+167,PT Maryati,(0782) 854-3793,Gg. Moch. Toha No. 264,Bekasi,Jawa Barat
+168,PT Suartini Saragih (Persero) Tbk,+62 (0498) 763-3022,Jl. Tebet Barat Dalam No. 017,Jakarta Pusat,Jakarta
+169,PD Sudiati,(0824) 708 9808,Gang Siliwangi No. 27,Tangerang Selatan,Banten
+170,Perum Saragih Narpati Tbk,+62-92-373-4566,Gang Kapten Muslihat No. 0,Jakarta Utara,Jakarta
+171,UD Lazuardi Waskita,+62 (836) 113 8150,Gg. Kutisari Selatan No. 61,Bekasi,Jawa Barat
+172,UD Laksita,+62 (980) 487 7004,Jl. Pasteur No. 79,Jakarta Timur,Jakarta
+173,PT Simbolon,+62-604-761-4902,Gang Lembong No. 9,Jakarta Utara,Jakarta
+174,PD Marpaung Purnawati,+62-005-366-9772,Gg. Suniaraja No. 98,Jakarta Timur,Jakarta
+175,CV Handayani (Persero) Tbk,+62 (28) 033 6512,Gg. Peta No. 092,Jakarta Pusat,Jakarta
+176,CV Samosir (Persero) Tbk,+62-18-291-6365,Gg. Tebet Barat Dalam No. 7,Bogor,Jawa Barat
+177,UD Budiyanto Prabowo Tbk,+62-021-777-8719,Gang Kiaracondong No. 9,Jakarta Timur,Jakarta
+178,UD Maulana Tbk,(0762) 174-2463,Jl. Lembong No. 71,Jakarta Timur,Jakarta
+179,PT Rahayu Tbk,(012) 503-7670,Jalan Ciumbuleuit No. 711,Jakarta Timur,Jakarta
+180,CV Oktaviani Prastuti Tbk,+62-0737-236-3260,Jl. Kiaracondong No. 9,Bogor,Jawa Barat
+181,PD Wastuti Winarsih Tbk,+62 (066) 682-0844,Jl. Ir. H. Djuanda No. 740,Tangerang,Banten
+182,UD Saptono Ramadan,+62 (016) 682 2702,Jl. Rungkut Industri No. 744,Tangerang Selatan,Banten
+183,PT Tampubolon Sihombing,086 271 0806,Gang Ronggowarsito No. 205,Tangerang,Banten
+184,PT Hariyah Simbolon,+62 (093) 110 6601,Jalan Wonoayu No. 52,Jakarta Timur,Jakarta
+185,PT Nurdiyanti Tbk,+62 (043) 666-0069,Jalan Waringin No. 3,Jakarta Timur,Jakarta
+186,UD Wahyuni Nurdiyanti,+62-087-463-3631,Gang Cihampelas No. 7,Tangerang,Banten
+187,PD Samosir,+62 (0188) 641 1877,Gang PHH. Mustofa No. 0,Jakarta Utara,Jakarta
+188,UD Prasasta,+62 (087) 190-8362,Gg. Siliwangi No. 2,Jakarta Selatan,Jakarta
+189,UD Palastri Dabukke Tbk,+62 (305) 817-1291,Jl. Cikapayang No. 486,Jakarta Timur,Jakarta
+190,Perum Setiawan Pratama (Persero) Tbk,+62-10-247-4556,Gg. Ciwastra No. 65,Jakarta Pusat,Jakarta
+191,PD Mayasari,+62 (29) 706-2643,Gg. Cikutra Barat No. 982,Tangerang,Banten
+192,PT Mandasari Hutasoit Tbk,(0393) 036-0289,Jl. Siliwangi No. 33,Jakarta Timur,Jakarta
+193,PT Adriansyah Usada,+62 (0786) 332-0213,Jalan Sukajadi No. 2,Depok,Jawa Barat
+194,UD Mahendra (Persero) Tbk,+62 (979) 902-9592,Gg. Gegerkalong Hilir No. 606,Tangerang Selatan,Banten
+195,CV Rajata,0860244775,Gang Indragiri No. 5,Jakarta Timur,Jakarta
+196,CV Wijayanti Hidayat Tbk,(0795) 132 1015,Gg. Jend. Sudirman No. 913,Jakarta Timur,Jakarta
+197,PT Setiawan Marpaung,(0732) 082-5110,Jalan Astana Anyar No. 279,Tangerang,Banten
+198,CV Widiastuti,(0174) 084 3035,Jl. Kutisari Selatan No. 00,Jakarta Timur,Jakarta
+199,UD Fujiati Rahimah,+62 (0080) 788 0442,Jl. Pelajar Pejuang No. 0,Tangerang,Banten
+200,CV Rahayu (Persero) Tbk,(004) 802-8491,Gg. Tubagus Ismail No. 7,Jakarta Utara,Jakarta
+201,CV Rajata Hassanah,+62-81-168-6665,Jalan Setiabudhi No. 701,Jakarta Barat,Jakarta
+202,UD Suryatmi Hastuti,(0619) 251-0667,Jl. Suryakencana No. 9,Jakarta Pusat,Jakarta
+203,UD Simanjuntak,088 991 5940,Gg. Joyoboyo No. 7,Jakarta Selatan,Jakarta
+204,PD Pratiwi Hariyah,+62 (20) 869-6334,Jl. Astana Anyar No. 02,Jakarta Barat,Jakarta
+205,CV Halimah,+62 (0988) 721-3324,Jl. Dipenogoro No. 187,Jakarta Barat,Jakarta
+206,PD Novitasari Nababan (Persero) Tbk,(000) 642 8416,Gang Rajawali Barat No. 09,Tangerang Selatan,Banten
+207,CV Melani,+62-98-563-2069,Jalan Joyoboyo No. 9,Bekasi,Jawa Barat
+208,UD Irawan,(0081) 859 6575,Jalan Stasiun Wonokromo No. 698,Depok,Jawa Barat
+209,CV Nababan Putra,+62 (055) 050-3842,Jl. Pelajar Pejuang No. 963,Jakarta Barat,Jakarta
+210,PD Mayasari Napitupulu (Persero) Tbk,(0157) 928 9371,Gg. W.R. Supratman No. 3,Jakarta Timur,Jakarta
+211,PD Dabukke (Persero) Tbk,(0034) 307 6156,Jl. Cikutra Barat No. 53,Jakarta Barat,Jakarta
+212,PT Sitorus,+62-0892-127-0946,Jalan Kebonjati No. 690,Bekasi,Jawa Barat
+213,Perum Gunarto Tbk,+62-086-347-2477,Gang Rumah Sakit No. 924,Depok,Jawa Barat
+214,UD Permadi Lailasari,+62-0643-459-7386,Jl. Kutisari Selatan No. 733,Bekasi,Jawa Barat
+215,Perum Sihombing Samosir (Persero) Tbk,+62 (013) 737-3256,Jalan Cihampelas No. 459,Jakarta Selatan,Jakarta
+216,UD Haryanto (Persero) Tbk,+62 (29) 273 3035,Gg. Joyoboyo No. 54,Bogor,Jawa Barat
+217,CV Latupono,+62-0695-508-2605,Gang Moch. Ramdan No. 8,Tangerang,Banten
+218,UD Hariyah Prasetya Tbk,(046) 184-3804,Jalan Pasir Koja No. 5,Jakarta Utara,Jakarta
+219,PD Mayasari Susanti,(047) 573-0774,Jalan Suryakencana No. 34,Bekasi,Jawa Barat
+220,UD Tampubolon Riyanti,+62-56-159-7182,Gang Jend. Sudirman No. 13,Bogor,Jawa Barat
+221,Perum Suryatmi Maulana,(094) 394 4012,Gg. Pasir Koja No. 32,Jakarta Timur,Jakarta
+222,PD Waluyo Januar Tbk,(030) 855-9136,Jl. Stasiun Wonokromo No. 285,Tangerang,Banten
+223,CV Anggriawan,+62 (044) 607 3937,Gg. Moch. Ramdan No. 037,Jakarta Timur,Jakarta
+224,Perum Januar Hastuti,(067) 867 6056,Jl. Erlangga No. 82,Jakarta Pusat,Jakarta
+225,PT Natsir Sihombing,(067) 344 4582,Jl. Jend. A. Yani No. 09,Tangerang,Banten
+226,Perum Mahendra Tbk,+62 (43) 816-4007,Gg. Kendalsari No. 1,Jakarta Utara,Jakarta
+227,Perum Habibi Puspasari,+62 (99) 332-5371,Gang Lembong No. 03,Bekasi,Jawa Barat
+228,PD Kurniawan Kurniawan,083 489 8273,Gang Soekarno Hatta No. 382,Jakarta Barat,Jakarta
+229,UD Hardiansyah Hidayat,+62 (94) 539 8349,Gg. Suryakencana No. 56,Jakarta Selatan,Jakarta
+230,Perum Sihotang,(0681) 912 8359,Gang Suniaraja No. 1,Jakarta Selatan,Jakarta
+231,PT Nugroho,+62 (494) 623 6617,Jalan Ahmad Yani No. 977,Tangerang,Banten
+232,PD Purwanti (Persero) Tbk,(0911) 446 8219,Gang Abdul Muis No. 985,Depok,Jawa Barat
+233,PT Rajasa Saptono,0857158044,Gg. Wonoayu No. 228,Jakarta Timur,Jakarta
+234,CV Wijayanti,+62-543-352-6882,Jl. Veteran No. 63,Bogor,Jawa Barat
+235,UD Pradana Kurniawan,+62 (085) 100 8555,Jalan Cihampelas No. 424,Jakarta Selatan,Jakarta
+236,CV Wahyudin,+62 (740) 122-1472,Gang Joyoboyo No. 5,Depok,Jawa Barat
+237,Perum Mangunsong Mustofa,+62 (0652) 870 6944,Gg. Peta No. 8,Jakarta Timur,Jakarta
+238,UD Wibisono Gunarto (Persero) Tbk,+62 (0542) 818-4726,Jalan Kapten Muslihat No. 960,Jakarta Utara,Jakarta
+239,CV Ramadan Ramadan (Persero) Tbk,+62-060-802-3000,Jalan Kutai No. 0,Jakarta Timur,Jakarta
+240,CV Siregar,+62-048-576-7005,Jl. Surapati No. 26,Jakarta Barat,Jakarta
+241,PD Mandasari Hariyah,083 128 5688,Jalan Gardujati No. 545,Bekasi,Jawa Barat
+242,CV Ramadan (Persero) Tbk,+62 (30) 845 1266,Gang Ir. H. Djuanda No. 99,Depok,Jawa Barat
+243,Perum Wacana Laksmiwati,+62 (0976) 982-3994,Gang H.J Maemunah No. 5,Jakarta Selatan,Jakarta
+244,PT Hidayanto Saptono (Persero) Tbk,+62 (484) 982 5509,Jalan Jend. A. Yani No. 0,Jakarta Barat,Jakarta
+245,UD Wijayanti Prastuti,+62 (048) 358-0332,Jalan Pacuan Kuda No. 28,Tangerang,Banten
+246,CV Maryati,(046) 668-4048,Jl. Siliwangi No. 111,Jakarta Timur,Jakarta
+247,CV Suwarno,(041) 160-2089,Gg. Abdul Muis No. 44,Depok,Jawa Barat
+248,PT Purnawati Megantara Tbk,(046) 973 6567,Gang PHH. Mustofa No. 978,Jakarta Timur,Jakarta
+249,Perum Salahudin Budiman Tbk,+62 (079) 080-0693,Gg. Medokan Ayu No. 482,Jakarta Utara,Jakarta
+250,PT Saputra Tbk,085 706 2864,Gg. Cihampelas No. 713,Jakarta Utara,Jakarta
+251,PT Wacana Suartini,+62 (67) 915 3182,Gang Dipenogoro No. 443,Tangerang,Banten
+252,UD Suartini (Persero) Tbk,(0152) 815 0888,Jalan Cihampelas No. 4,Jakarta Barat,Jakarta
+253,CV Permadi Tbk,+62 (471) 264-6095,Gg. Abdul Muis No. 9,Bogor,Jawa Barat
+254,PD Firmansyah Widiastuti,(0477) 166 6273,Jalan Ciwastra No. 32,Depok,Jawa Barat
+255,Perum Januar Jailani,(0663) 415-8760,Gang Cikutra Barat No. 052,Depok,Jawa Barat
+256,Perum Usamah Hutapea (Persero) Tbk,+62-81-027-8210,Jalan M.T Haryono No. 3,Jakarta Utara,Jakarta
+257,CV Oktaviani Rajasa (Persero) Tbk,0893850467,Gg. Pasteur No. 6,Bekasi,Jawa Barat
+258,CV Gunawan,(088) 781 1670,Jalan Monginsidi No. 5,Tangerang,Banten
+259,UD Sitompul,+62-0825-044-0947,Jalan Medokan Ayu No. 45,Tangerang,Banten
+260,PD Sudiati (Persero) Tbk,+62 (075) 050 7569,Jl. Kiaracondong No. 11,Tangerang,Banten
+261,PD Zulkarnain Kusmawati,+62 (025) 671 2809,Gg. Medokan Ayu No. 39,Depok,Jawa Barat
+262,PD Wahyudin Tbk,082 069 4233,Gg. Cikapayang No. 459,Tangerang,Banten
+263,CV Tarihoran Purnawati,(063) 531 4830,Jl. W.R. Supratman No. 49,Jakarta Timur,Jakarta
+264,Perum Tarihoran,+62 (0360) 843 2714,Jalan Indragiri No. 418,Jakarta Barat,Jakarta
+265,PT Prasasta,+62 (680) 189 6245,Jl. Bangka Raya No. 413,Jakarta Selatan,Jakarta
+266,CV Safitri Rajasa (Persero) Tbk,+62-0217-197-6033,Gg. Cihampelas No. 3,Tangerang Selatan,Banten
+267,PD Wahyudin (Persero) Tbk,+62 (91) 243 5290,Jl. Gegerkalong Hilir No. 917,Jakarta Utara,Jakarta
+268,PD Lazuardi,+62-982-722-8964,Jl. Suniaraja No. 09,Jakarta Selatan,Jakarta
+269,PD Pratama Mayasari (Persero) Tbk,087 398 6705,Gang Ir. H. Djuanda No. 148,Jakarta Timur,Jakarta
+270,PT Kusumo Rahmawati (Persero) Tbk,(0932) 560-4490,Gang Kendalsari No. 190,Bekasi,Jawa Barat
+271,Perum Hardiansyah,(027) 330-5870,Gg. Rungkut Industri No. 072,Tangerang,Banten
+272,PD Namaga,+62 (19) 485 5347,Gg. Surapati No. 2,Jakarta Timur,Jakarta
+273,CV Pranowo Andriani,081 039 4360,Jalan Astana Anyar No. 6,Tangerang Selatan,Banten
+274,PD Sinaga Dongoran Tbk,+62 (57) 951 2567,Jalan Moch. Ramdan No. 059,Jakarta Utara,Jakarta
+275,PD Hidayat Prabowo,(018) 169-9416,Jl. Pasirkoja No. 711,Jakarta Selatan,Jakarta
+276,PD Maryati,+62 (0780) 268-6798,Gg. Kendalsari No. 77,Bogor,Jawa Barat
+277,PT Budiyanto Tbk,(072) 512-3438,Gang K.H. Wahid Hasyim No. 5,Jakarta Timur,Jakarta
+278,Perum Mulyani Kusumo (Persero) Tbk,+62 (092) 637 5421,Jalan HOS. Cokroaminoto No. 02,Jakarta Timur,Jakarta
+279,PD Waskita,+62 (29) 866-3536,Gg. Monginsidi No. 20,Jakarta Barat,Jakarta
+280,Perum Maheswara Tbk,+62 (031) 025 9150,Jalan BKR No. 66,Jakarta Timur,Jakarta
+281,Perum Maheswara (Persero) Tbk,(0042) 285 2920,Gg. Pacuan Kuda No. 15,Jakarta Barat,Jakarta
+282,Perum Irawan,+62 (16) 067 1131,Jl. BKR No. 29,Jakarta Pusat,Jakarta
+283,PT Nasyiah,+62-0669-282-9358,Gg. Kutisari Selatan No. 4,Jakarta Utara,Jakarta
+284,PT Saptono,+62 (097) 754 3426,Gg. Tubagus Ismail No. 8,Jakarta Selatan,Jakarta
+285,CV Widodo,+62 (0591) 747-3831,Gang Dipenogoro No. 9,Jakarta Barat,Jakarta
+286,CV Novitasari Ardianto (Persero) Tbk,084 530 9301,Gg. Kapten Muslihat No. 161,Jakarta Utara,Jakarta
+287,Perum Siregar,+62 (0316) 291 4936,Jalan Ir. H. Djuanda No. 7,Jakarta Timur,Jakarta
+288,PD Namaga (Persero) Tbk,084 866 5675,Gang Merdeka No. 5,Jakarta Timur,Jakarta
+289,Perum Narpati,+62-098-450-8886,Jl. Joyoboyo No. 05,Jakarta Timur,Jakarta
+290,Perum Marbun Prakasa (Persero) Tbk,089 256 6504,Jl. Veteran No. 713,Jakarta Selatan,Jakarta
+291,PT Kuswandari Mustofa,+62-069-812-4451,Jl. Ciumbuleuit No. 370,Depok,Jawa Barat
+292,UD Pranowo Rajata,+62 (0888) 529 9068,Gg. Jayawijaya No. 31,Jakarta Barat,Jakarta
+293,UD Prasetyo Natsir,+62 (29) 044-9546,Gang M.H Thamrin No. 538,Bekasi,Jawa Barat
+294,PD Palastri Suryono,(070) 693-4148,Gang Dipenogoro No. 49,Bogor,Jawa Barat
+295,UD Saefullah (Persero) Tbk,+62-043-950-1823,Jl. Siliwangi No. 4,Jakarta Timur,Jakarta
+296,PD Palastri Yulianti,081 616 8538,Jl. Ciumbuleuit No. 707,Jakarta Barat,Jakarta
+297,PT Sitorus Sihotang Tbk,+62-96-435-7052,Gang Astana Anyar No. 2,Tangerang,Banten
+298,PT Hasanah (Persero) Tbk,+62-58-711-3067,Gang Jayawijaya No. 54,Jakarta Timur,Jakarta
+299,PD Palastri (Persero) Tbk,+62-028-204-4361,Jl. Jend. Sudirman No. 0,Jakarta Timur,Jakarta
+300,UD Rahimah Andriani,(0077) 416-0884,Jalan Indragiri No. 816,Bekasi,Jawa Barat
+301,Perum Permata Halimah,+62 (753) 916-2644,Gang Sentot Alibasa No. 314,Depok,Jawa Barat
+302,PD Marpaung Handayani,(008) 032 8048,Jl. Asia Afrika No. 07,Depok,Jawa Barat
+303,UD Narpati,+62-800-641-8128,Gang Sadang Serang No. 23,Tangerang Selatan,Banten
+304,Perum Hakim (Persero) Tbk,0851094731,Jl. Suryakencana No. 8,Jakarta Timur,Jakarta
+305,Perum Januar Uwais (Persero) Tbk,(087) 208 2473,Gang Rumah Sakit No. 297,Bogor,Jawa Barat
+306,Perum Tarihoran Sihotang Tbk,(0610) 356 2942,Jalan Suryakencana No. 924,Tangerang,Banten
+307,PD Halim Ardianto (Persero) Tbk,0813693979,Gang Abdul Muis No. 1,Jakarta Utara,Jakarta
+308,PT Pudjiastuti Marpaung (Persero) Tbk,+62 (079) 073-8684,Gang Waringin No. 02,Jakarta Utara,Jakarta
+309,UD Rajasa,+62-0724-457-9001,Gg. M.H Thamrin No. 99,Bekasi,Jawa Barat
+310,PD Simanjuntak Tbk,+62-113-162-3687,Gg. Rajawali Timur No. 95,Jakarta Utara,Jakarta
+311,PD Winarsih,+62 (50) 557-3431,Jl. Ronggowarsito No. 775,Jakarta Utara,Jakarta
+312,UD Wijaya Lazuardi (Persero) Tbk,(046) 217 5479,Gang Ciumbuleuit No. 106,Jakarta Timur,Jakarta
+313,CV Handayani Prastuti,+62 (826) 806 8013,Jl. Ahmad Dahlan No. 848,Jakarta Barat,Jakarta
+314,CV Usamah Wasita (Persero) Tbk,(0097) 726-0640,Jalan Asia Afrika No. 073,Jakarta Barat,Jakarta
+315,CV Saragih Tbk,(033) 641 2041,Gg. Suryakencana No. 8,Jakarta Barat,Jakarta
+316,Perum Anggraini,+62-834-786-1910,Jl. Pasir Koja No. 0,Tangerang Selatan,Banten
+317,PD Astuti Anggraini (Persero) Tbk,+62 (0978) 856-1127,Gg. Abdul Muis No. 710,Tangerang,Banten
+318,CV Gunarto Kurniawan Tbk,0805739373,Jl. Indragiri No. 188,Jakarta Timur,Jakarta
+319,PT Laksita Wahyudin (Persero) Tbk,089 040 2894,Gg. Moch. Ramdan No. 8,Jakarta Timur,Jakarta
+320,UD Puspita (Persero) Tbk,+62-0872-639-4879,Gang Moch. Ramdan No. 2,Bogor,Jawa Barat
+321,PD Utama Palastri (Persero) Tbk,+62 (99) 154-1821,Jl. Kutisari Selatan No. 6,Jakarta Pusat,Jakarta
+322,Perum Oktaviani Halimah Tbk,+62 (0044) 468-0573,Jalan Kapten Muslihat No. 50,Bekasi,Jawa Barat
+323,Perum Rajata (Persero) Tbk,+62 (99) 717 9310,Jalan Ciumbuleuit No. 202,Jakarta Barat,Jakarta
+324,PD Nugroho Kusumo (Persero) Tbk,+62-044-057-5735,Jalan PHH. Mustofa No. 066,Jakarta Timur,Jakarta
+325,CV Hariyah,+62 (0644) 180 4495,Jl. Cikutra Timur No. 064,Jakarta Utara,Jakarta
+326,PT Melani Tbk,+62 (503) 382-6416,Jl. PHH. Mustofa No. 82,Depok,Jawa Barat
+327,CV Astuti Latupono (Persero) Tbk,+62-028-351-5825,Gang Ir. H. Djuanda No. 58,Tangerang,Banten
+328,UD Firmansyah Suwarno (Persero) Tbk,+62-14-504-6092,Jalan Surapati No. 4,Depok,Jawa Barat
+329,PT Hastuti Widodo,+62 (051) 584 2369,Jl. Rungkut Industri No. 0,Jakarta Barat,Jakarta
+330,Perum Thamrin,(0090) 459 4840,Jalan Pasirkoja No. 07,Tangerang,Banten
+331,PT Latupono Mulyani,+62 (0311) 053 5444,Gang K.H. Wahid Hasyim No. 96,Jakarta Selatan,Jakarta
+332,UD Astuti (Persero) Tbk,(090) 524 8495,Gg. Antapani Lama No. 0,Jakarta Timur,Jakarta
+333,CV Waskita Tamba,(0775) 351 1169,Gg. Kebonjati No. 094,Jakarta Selatan,Jakarta
+334,Perum Mansur,+62 (34) 319-9936,Jl. Jend. Sudirman No. 4,Jakarta Utara,Jakarta
+335,PT Lestari,+62-49-317-2709,Jalan Ronggowarsito No. 8,Bogor,Jawa Barat
+336,CV Mulyani Laksita,+62 (0456) 242 9467,Jalan Pasirkoja No. 825,Jakarta Pusat,Jakarta
+337,UD Budiman,+62-33-758-9008,Gang Bangka Raya No. 20,Jakarta Selatan,Jakarta
+338,PT Siregar,+62-0434-565-5993,Gg. Rajiman No. 1,Jakarta Selatan,Jakarta
+339,UD Kusmawati Tbk,+62 (74) 930 0591,Gang Veteran No. 14,Jakarta Timur,Jakarta
+340,CV Waskita,+62-072-426-3545,Gg. Pasteur No. 023,Jakarta Barat,Jakarta
+341,Perum Simbolon Samosir Tbk,+62 (533) 761-1712,Gang Ir. H. Djuanda No. 28,Jakarta Selatan,Jakarta
+342,PT Zulaika Hakim,0802399074,Jalan KH Amin Jasuta No. 584,Bogor,Jawa Barat
+343,UD Jailani,(0975) 495 8991,Jl. Kutisari Selatan No. 627,Bogor,Jawa Barat
+344,Perum Laksmiwati Iswahyudi,+62-437-529-0667,Jalan Suniaraja No. 581,Jakarta Selatan,Jakarta
+345,UD Kusmawati,(012) 648-1186,Jalan Dipatiukur No. 68,Jakarta Timur,Jakarta
+346,Perum Zulaika Tbk,(0528) 146 1829,Jalan Indragiri No. 905,Tangerang,Banten
+347,CV Riyanti (Persero) Tbk,(0509) 276-3018,Jalan Waringin No. 27,Depok,Jawa Barat
+348,UD Nasyidah (Persero) Tbk,+62-0820-524-8163,Jl. Ciumbuleuit No. 7,Jakarta Barat,Jakarta
+349,UD Hutapea Pratiwi (Persero) Tbk,+62 (0306) 712 6110,Gang Ir. H. Djuanda No. 097,Depok,Jawa Barat
+350,PD Puspita,+62 (093) 122 4678,Gg. Indragiri No. 129,Jakarta Timur,Jakarta
+351,Perum Nurdiyanti,+62-36-183-4437,Gg. Veteran No. 32,Jakarta Barat,Jakarta
+352,UD Mulyani Rahayu,+62 (94) 198 6259,Gang Erlangga No. 293,Jakarta Barat,Jakarta
+353,Perum Permata Hidayanto,+62-55-638-9419,Gg. Monginsidi No. 3,Tangerang,Banten
+354,PT Nasyidah,(0405) 408-1517,Gang Pelajar Pejuang No. 9,Jakarta Selatan,Jakarta
+355,PT Uyainah Budiyanto (Persero) Tbk,0843214298,Gg. Siliwangi No. 9,Tangerang Selatan,Banten
+356,UD Dongoran Prasasta,(0654) 727 9846,Gang Otto Iskandardinata No. 07,Jakarta Pusat,Jakarta
+357,CV Dabukke (Persero) Tbk,(072) 622 9272,Jl. PHH. Mustofa No. 14,Jakarta Timur,Jakarta
+358,PD Pranowo Manullang,(021) 824-5919,Gang Merdeka No. 0,Bogor,Jawa Barat
+359,Perum Puspita Tamba,(0112) 563-7623,Gg. Kutai No. 97,Depok,Jawa Barat
+360,PD Namaga Tbk,(039) 040 4436,Gg. Gegerkalong Hilir No. 742,Bekasi,Jawa Barat
+361,UD Wastuti,081 471 2468,Jalan Joyoboyo No. 976,Jakarta Utara,Jakarta
+362,PT Tampubolon Iswahyudi,(0825) 179 4082,Jl. Kutai No. 096,Jakarta Selatan,Jakarta
+363,UD Puspasari Rajata,+62 (0338) 298-6172,Jl. M.H Thamrin No. 407,Jakarta Pusat,Jakarta
+364,CV Adriansyah Tbk,+62-46-140-1008,Jl. Siliwangi No. 642,Bekasi,Jawa Barat
+365,UD Setiawan (Persero) Tbk,(0812) 626 0631,Jl. M.T Haryono No. 6,Bekasi,Jawa Barat
+366,PT Jailani Hariyah Tbk,0802101340,Gg. Moch. Ramdan No. 40,Tangerang Selatan,Banten
+367,Perum Anggraini,(0802) 586-2932,Jalan Ciwastra No. 0,Tangerang,Banten
+368,UD Hakim Firgantoro,(0076) 483 0433,Jalan Kendalsari No. 91,Bekasi,Jawa Barat
+369,PD Prayoga Suryatmi,+62 (070) 184-3012,Gang Yos Sudarso No. 13,Jakarta Utara,Jakarta
+370,CV Pudjiastuti Yulianti,+62-0726-174-7837,Jl. Cikapayang No. 396,Jakarta Utara,Jakarta
+371,PD Maheswara Tarihoran Tbk,+62 (88) 662 6847,Jalan Sukajadi No. 8,Depok,Jawa Barat
+372,Perum Palastri Tbk,0880565107,Gg. Suniaraja No. 49,Jakarta Utara,Jakarta
+373,PT Hasanah,+62 (082) 031-0373,Gg. Cihampelas No. 863,Jakarta Pusat,Jakarta
+374,UD Firmansyah Nurdiyanti,+62 (0904) 079 4653,Gang Sukabumi No. 083,Jakarta Utara,Jakarta
+375,PT Saefullah Tbk,(080) 663-1494,Gang KH Amin Jasuta No. 3,Jakarta Utara,Jakarta
+376,CV Halim Prastuti,+62 (0139) 060 8167,Jalan Kebonjati No. 32,Bekasi,Jawa Barat
+377,Perum Prasasta,+62 (015) 875-9542,Jalan Tebet Barat Dalam No. 3,Jakarta Timur,Jakarta
+378,PT Suwarno,+62-70-582-7942,Gang Abdul Muis No. 95,Jakarta Selatan,Jakarta
+379,CV Oktaviani Tbk,+62 (0668) 534-6816,Jalan Raya Ujungberung No. 135,Jakarta Selatan,Jakarta
+380,CV Yuliarti Usada,+62-031-705-0435,Gg. K.H. Wahid Hasyim No. 620,Tangerang,Banten
+381,UD Wijaya Tbk,(0328) 481-1857,Gg. Dipenogoro No. 766,Bogor,Jawa Barat
+382,PT Hartati Padmasari,0852266729,Jalan Veteran No. 88,Jakarta Barat,Jakarta
+383,UD Yuniar Budiman,(0210) 437 2692,Jalan Setiabudhi No. 4,Depok,Jawa Barat
+384,CV Siregar Suryono Tbk,+62-0572-851-5725,Gang Cihampelas No. 62,Jakarta Barat,Jakarta
+385,CV Mandasari Tbk,(067) 296 9671,Gang Surapati No. 52,Tangerang Selatan,Banten
+386,UD Hidayat Wasita,(0934) 185-3848,Gang Bangka Raya No. 0,Tangerang,Banten
+387,UD Napitupulu Tbk,0895077218,Gang Ahmad Dahlan No. 289,Bekasi,Jawa Barat
+388,PT Natsir Pratiwi,+62 (54) 819-5147,Gg. Sentot Alibasa No. 38,Bekasi,Jawa Barat
+389,UD Laksita Nainggolan,(026) 293-7910,Jalan Ronggowarsito No. 50,Bogor,Jawa Barat
+390,PT Wasita,+62-0040-327-0648,Gang HOS. Cokroaminoto No. 652,Bekasi,Jawa Barat
+391,PD Wijaya Tbk,+62 (34) 315 4643,Gang Rajiman No. 1,Depok,Jawa Barat
+392,PT Mulyani (Persero) Tbk,(031) 235 3755,Jalan K.H. Wahid Hasyim No. 3,Jakarta Selatan,Jakarta
+393,PD Wastuti Tbk,0807256314,Gang Erlangga No. 7,Jakarta Barat,Jakarta
+394,Perum Saefullah,(058) 092 3423,Gang Gegerkalong Hilir No. 8,Tangerang Selatan,Banten
+395,UD Widodo Rahimah (Persero) Tbk,+62-32-744-8627,Jl. Ahmad Yani No. 90,Bekasi,Jawa Barat
+396,PT Aryani Nuraini Tbk,+62 (044) 025-2843,Jl. Cempaka No. 148,Jakarta Barat,Jakarta
+397,Perum Hassanah,+62 (041) 123-8825,Gang Setiabudhi No. 067,Bekasi,Jawa Barat
+398,UD Andriani Wibowo,(068) 099-4702,Jl. Monginsidi No. 69,Jakarta Timur,Jakarta
+399,Perum Sitorus Suryono,+62 (716) 891 4637,Jl. Moch. Ramdan No. 1,Tangerang Selatan,Banten
+400,CV Laksita Usada (Persero) Tbk,+62 (0395) 644-3856,Jalan W.R. Supratman No. 676,Depok,Jawa Barat
+401,UD Astuti Yuliarti (Persero) Tbk,0829381177,Gang Yos Sudarso No. 9,Bekasi,Jawa Barat
+402,PD Hutasoit Puspita Tbk,081 088 8673,Gg. Gegerkalong Hilir No. 19,Tangerang,Banten
+403,PD Rahmawati Situmorang,+62 (065) 885-7184,Jl. Raya Ujungberung No. 764,Jakarta Utara,Jakarta
+404,Perum Prayoga Usamah Tbk,+62-099-304-0401,Jalan K.H. Wahid Hasyim No. 87,Jakarta Selatan,Jakarta
+405,CV Mustofa Hidayanto,0893302971,Jalan M.T Haryono No. 9,Jakarta Barat,Jakarta
+406,Perum Maheswara Manullang,+62 (546) 914 0553,Gg. Jakarta No. 375,Jakarta Pusat,Jakarta
+407,PT Astuti Saefullah,+62-771-684-2555,Jalan Pasteur No. 701,Jakarta Utara,Jakarta
+408,UD Permadi (Persero) Tbk,+62-019-020-2535,Jl. Ahmad Yani No. 4,Depok,Jawa Barat
+409,Perum Marpaung Setiawan,+62 (0345) 532 7604,Jl. Stasiun Wonokromo No. 23,Depok,Jawa Barat
+410,PT Napitupulu Wibisono,+62 (049) 809 3052,Gang HOS. Cokroaminoto No. 554,Jakarta Timur,Jakarta
+411,PT Permata Farida Tbk,+62 (78) 661-8088,Jl. Kendalsari No. 714,Jakarta Timur,Jakarta
+412,PD Hidayat Tbk,0830405526,Gang Sukabumi No. 5,Bekasi,Jawa Barat
+413,CV Budiyanto,(0992) 310-8067,Gg. Kebonjati No. 9,Jakarta Utara,Jakarta
+414,PT Putra Tbk,+62 (92) 218-3601,Gg. Asia Afrika No. 841,Tangerang,Banten
+415,CV Astuti Simbolon (Persero) Tbk,0856720829,Jl. R.E Martadinata No. 9,Jakarta Selatan,Jakarta
+416,PT Pratama,+62 (0974) 395-8970,Gang Dipatiukur No. 82,Jakarta Timur,Jakarta
+417,CV Mansur Hartati (Persero) Tbk,+62 (04) 654-2529,Jalan PHH. Mustofa No. 1,Bekasi,Jawa Barat
+418,UD Yolanda,+62 (0501) 124-3046,Jl. Gardujati No. 13,Jakarta Utara,Jakarta
+419,PD Maulana Mardhiyah Tbk,+62 (324) 600-2839,Gang Ir. H. Djuanda No. 9,Jakarta Utara,Jakarta
+420,Perum Hakim Tbk,+62 (097) 138-4499,Jl. Sukabumi No. 3,Jakarta Timur,Jakarta
+421,CV Sihombing (Persero) Tbk,+62 (37) 656 9683,Jalan Surapati No. 81,Jakarta Barat,Jakarta
+422,UD Wijaya Lestari,089 461 2794,Gg. Ciwastra No. 31,Depok,Jawa Barat
+423,Perum Prasetyo,+62 (579) 163-5359,Jalan Astana Anyar No. 656,Tangerang,Banten
+424,UD Mayasari Uyainah,086 864 5058,Jalan Cempaka No. 15,Tangerang,Banten
+425,CV Mangunsong Nasyidah Tbk,+62-35-422-9726,Gg. Cihampelas No. 5,Jakarta Selatan,Jakarta
+426,UD Adriansyah Utama,0848100807,Gg. S. Parman No. 9,Bogor,Jawa Barat
+427,PT Hasanah Napitupulu Tbk,+62-0123-829-1081,Gang Cikutra Barat No. 509,Jakarta Timur,Jakarta
+428,UD Firgantoro,+62 (0305) 302 0654,Gang Pasir Koja No. 46,Tangerang Selatan,Banten
+429,PT Pudjiastuti Tbk,+62-94-478-8752,Gg. Medokan Ayu No. 152,Jakarta Timur,Jakarta
+430,CV Saptono,+62-037-346-1095,Jl. Bangka Raya No. 0,Jakarta Utara,Jakarta
+431,PT Mangunsong,+62 (71) 738-1962,Gg. Rungkut Industri No. 59,Jakarta Barat,Jakarta
+432,CV Halim Firmansyah,+62 (038) 973 0445,Gang Waringin No. 33,Jakarta Selatan,Jakarta
+433,PD Jailani Palastri Tbk,+62-015-946-6564,Jl. Suryakencana No. 9,Jakarta Utara,Jakarta
+434,PD Salahudin,+62-0211-262-2888,Jalan Asia Afrika No. 06,Tangerang Selatan,Banten
+435,Perum Mahendra,(083) 371 7723,Jalan Laswi No. 738,Tangerang Selatan,Banten
+436,UD Yulianti Firmansyah (Persero) Tbk,+62 (72) 218 3082,Gang Cikutra Timur No. 45,Jakarta Selatan,Jakarta
+437,PD Tampubolon Hutapea,(072) 051 5812,Gg. Ahmad Yani No. 2,Jakarta Barat,Jakarta
+438,UD Kuswandari Tbk,+62-725-780-9714,Jl. Rajawali Timur No. 229,Jakarta Timur,Jakarta
+439,CV Hardiansyah,+62 (0900) 850-2201,Gg. Kendalsari No. 6,Jakarta Timur,Jakarta
+440,CV Mustofa Waskita,+62 (31) 371-1114,Jalan Joyoboyo No. 88,Bekasi,Jawa Barat
+441,CV Budiyanto Waskita,+62 (05) 862 9119,Gang Tubagus Ismail No. 7,Jakarta Barat,Jakarta
+442,CV Safitri,+62 (011) 978-5202,Jl. Lembong No. 921,Depok,Jawa Barat
+443,CV Waskita Kuswoyo (Persero) Tbk,+62-036-025-1226,Jl. Peta No. 475,Tangerang Selatan,Banten
+444,PT Putra Siregar Tbk,+62-020-073-2906,Gang Gegerkalong Hilir No. 272,Jakarta Barat,Jakarta
+445,PD Wahyuni Adriansyah,+62 (043) 728 4403,Jl. Ronggowarsito No. 687,Tangerang,Banten
+446,CV Hidayat Ardianto Tbk,+62 (0467) 491 4115,Gg. Pasir Koja No. 3,Jakarta Timur,Jakarta
+447,CV Hutagalung (Persero) Tbk,+62 (20) 363 1381,Jalan Raya Setiabudhi No. 736,Jakarta Selatan,Jakarta
+448,UD Pratama Maryati (Persero) Tbk,+62 (007) 305-4279,Gg. Otto Iskandardinata No. 685,Tangerang,Banten
+449,PD Pranowo (Persero) Tbk,(0939) 007 1240,Gg. Asia Afrika No. 94,Tangerang Selatan,Banten
+450,Perum Simanjuntak Mulyani,+62 (613) 469-0359,Jalan Veteran No. 260,Bekasi,Jawa Barat
+451,PT Dongoran Adriansyah Tbk,(080) 908-5055,Jl. Rungkut Industri No. 402,Jakarta Selatan,Jakarta
+452,PT Pranowo Prastuti Tbk,082 270 7218,Gg. Moch. Ramdan No. 99,Depok,Jawa Barat
+453,PT Hutasoit Laksmiwati (Persero) Tbk,(0974) 776 3139,Jl. Rajawali Barat No. 6,Bekasi,Jawa Barat
+454,PD Tarihoran Tbk,089 328 3628,Jl. Gardujati No. 44,Depok,Jawa Barat
+455,PT Januar Padmasari Tbk,+62-057-837-2563,Jalan Cikutra Barat No. 9,Depok,Jawa Barat
+456,PT Waskita Halim,+62 (081) 186 6917,Jl. PHH. Mustofa No. 38,Tangerang,Banten
+457,Perum Farida,+62 (087) 780-7884,Gg. Kutai No. 5,Bekasi,Jawa Barat
+458,Perum Suryono,084 301 9763,Gang Gegerkalong Hilir No. 556,Jakarta Barat,Jakarta
+459,PD Sitompul,081 182 2913,Gang Jend. A. Yani No. 32,Bekasi,Jawa Barat
+460,PD Utami (Persero) Tbk,081 515 0045,Jalan Lembong No. 1,Jakarta Selatan,Jakarta
+461,CV Putra,+62-082-608-0175,Gang Cihampelas No. 91,Bekasi,Jawa Barat
+462,UD Usada Prakasa (Persero) Tbk,+62 (377) 116-5013,Jl. BKR No. 644,Jakarta Barat,Jakarta
+463,PT Nashiruddin Prabowo (Persero) Tbk,0809162630,Gang Peta No. 59,Bekasi,Jawa Barat
+464,Perum Tampubolon Lailasari,+62 (0098) 076 1906,Gang Cikutra Timur No. 74,Jakarta Barat,Jakarta
+465,CV Palastri Palastri,+62-35-435-7006,Gg. Astana Anyar No. 07,Bekasi,Jawa Barat
+466,PD Aryani Najmudin (Persero) Tbk,+62 (425) 383-2323,Jalan HOS. Cokroaminoto No. 146,Jakarta Utara,Jakarta
+467,Perum Hasanah Nuraini Tbk,+62 (480) 962-7859,Gg. Waringin No. 220,Jakarta Utara,Jakarta
+468,Perum Wulandari,+62 (095) 717 0694,Jl. HOS. Cokroaminoto No. 034,Depok,Jawa Barat
+469,CV Sitorus Ramadan (Persero) Tbk,+62-0740-648-3763,Gg. PHH. Mustofa No. 038,Jakarta Barat,Jakarta
+470,Perum Susanti Kusmawati,+62 (011) 592 7959,Jalan Raya Setiabudhi No. 42,Depok,Jawa Barat
+471,CV Hutagalung,+62 (0188) 716-7949,Gg. Abdul Muis No. 3,Depok,Jawa Barat
+472,PD Purwanti Pradana,+62-17-538-6806,Jl. S. Parman No. 00,Tangerang,Banten
+473,PD Melani Nainggolan Tbk,+62 (500) 655-0931,Jl. Gegerkalong Hilir No. 185,Tangerang Selatan,Banten
+474,CV Gunawan,+62 (077) 826-3351,Jl. Raya Ujungberung No. 0,Jakarta Pusat,Jakarta
+475,PT Tampubolon Kuswoyo,+62 (942) 738 4226,Jl. Monginsidi No. 0,Jakarta Selatan,Jakarta
+476,Perum Mustofa Tbk,+62 (091) 187-6010,Gang Abdul Muis No. 367,Bekasi,Jawa Barat
+477,PD Zulkarnain (Persero) Tbk,+62 (493) 367 0975,Jl. Surapati No. 17,Depok,Jawa Barat
+478,PD Tamba,(0933) 128 1727,Gang Kiaracondong No. 995,Bekasi,Jawa Barat
+479,UD Safitri Puspasari (Persero) Tbk,+62 (061) 530 3129,Jl. Lembong No. 8,Tangerang,Banten
+480,CV Tamba Lailasari Tbk,+62-0569-410-4934,Gg. Rajawali Barat No. 254,Jakarta Timur,Jakarta
+481,UD Utama,(0067) 070 8434,Gg. Rawamangun No. 271,Jakarta Timur,Jakarta
+482,UD Ardianto (Persero) Tbk,+62 (99) 931 4133,Jl. Raya Setiabudhi No. 5,Jakarta Selatan,Jakarta
+483,CV Januar,(0537) 322-9200,Jalan Ronggowarsito No. 14,Jakarta Timur,Jakarta
+484,UD Puspasari Prasasta,+62 (076) 059-3317,Jl. Waringin No. 4,Tangerang Selatan,Banten
+485,PD Fujiati,+62-0381-779-3447,Gg. Astana Anyar No. 44,Depok,Jawa Barat
+486,PD Sihotang Namaga,+62 (22) 506-4799,Gg. Pelajar Pejuang No. 9,Depok,Jawa Barat
+487,Perum Padmasari,(0690) 448 0768,Jalan Siliwangi No. 07,Jakarta Timur,Jakarta
+488,PT Sitompul Uyainah,+62 (891) 223 1639,Gg. Rungkut Industri No. 22,Jakarta Selatan,Jakarta
+489,Perum Melani Widiastuti Tbk,(0107) 480 8418,Jl. Pacuan Kuda No. 491,Bekasi,Jawa Barat
+490,UD Habibi Tbk,+62-69-305-3025,Jalan Yos Sudarso No. 5,Bekasi,Jawa Barat
+491,CV Uyainah (Persero) Tbk,+62-967-082-4121,Jalan Pasteur No. 78,Jakarta Utara,Jakarta
+492,PT Winarsih Farida Tbk,(0301) 859 4393,Jl. Dr. Djunjunan No. 2,Jakarta Barat,Jakarta
+493,Perum Saefullah Santoso (Persero) Tbk,+62 (94) 118 4294,Jl. Moch. Toha No. 8,Tangerang,Banten
+494,CV Melani (Persero) Tbk,+62-424-550-7640,Gang Cihampelas No. 700,Jakarta Utara,Jakarta
+495,PD Prakasa Puspita,+62-54-454-8327,Jl. Kutai No. 16,Depok,Jawa Barat
+496,CV Zulkarnain Sinaga (Persero) Tbk,+62 (51) 907 7355,Jalan Suryakencana No. 31,Bogor,Jawa Barat
+497,CV Saptono Wasita (Persero) Tbk,(000) 447-6793,Jalan Stasiun Wonokromo No. 968,Tangerang,Banten
+498,Perum Narpati,+62-590-741-9774,Jalan BKR No. 44,Jakarta Utara,Jakarta
+499,CV Narpati (Persero) Tbk,+62 (0499) 553-5787,Gang Cikutra Barat No. 523,Jakarta Utara,Jakarta
+500,PT Habibi Mulyani,(077) 590 0283,Jalan Pelajar Pejuang No. 373,Jakarta Timur,Jakarta
+501,Perum Rajata Winarno (Persero) Tbk,081 876 5562,Jl. Siliwangi No. 02,Jakarta Utara,Jakarta
+502,PT Anggriawan (Persero) Tbk,+62-957-174-7080,Jalan Abdul Muis No. 07,Jakarta Timur,Jakarta
+503,PT Purwanti Yuniar (Persero) Tbk,+62 (084) 738 1096,Jalan Wonoayu No. 7,Jakarta Utara,Jakarta
+504,PT Kusumo Nugroho,+62-054-755-0407,Jl. Jayawijaya No. 150,Bogor,Jawa Barat
+505,Perum Saputra,(0733) 999-8353,Jl. Bangka Raya No. 7,Bekasi,Jawa Barat
+506,CV Mangunsong,+62 (0719) 093 1989,Gg. Veteran No. 02,Jakarta Utara,Jakarta
+507,PD Usada Saptono,(0153) 338 3165,Gg. Gedebage Selatan No. 3,Depok,Jawa Barat
+508,CV Nuraini,+62 (010) 952-7939,Jalan Pacuan Kuda No. 0,Jakarta Selatan,Jakarta
+509,PT Ardianto Anggraini (Persero) Tbk,(0837) 518 0306,Gang Pasirkoja No. 27,Jakarta Selatan,Jakarta
+510,UD Saefullah Utami,+62 (096) 898-1463,Jalan Antapani Lama No. 530,Tangerang,Banten
+511,UD Prasasta Adriansyah (Persero) Tbk,089 670 5288,Gang Kapten Muslihat No. 48,Depok,Jawa Barat
+512,PD Irawan (Persero) Tbk,+62 (014) 934 8532,Jl. Stasiun Wonokromo No. 85,Jakarta Selatan,Jakarta
+513,Perum Putra Uyainah,+62-98-643-3576,Jl. Lembong No. 785,Jakarta Utara,Jakarta
+514,PT Prakasa Salahudin (Persero) Tbk,0801017428,Gg. Gardujati No. 334,Jakarta Timur,Jakarta
+515,CV Namaga Kuswoyo Tbk,(0244) 574-3260,Jl. Erlangga No. 52,Jakarta Utara,Jakarta
+516,PD Purnawati Halim,089 223 4485,Jalan Kapten Muslihat No. 6,Tangerang Selatan,Banten
+517,PD Wijayanti Yuniar Tbk,+62-86-185-3322,Jalan Lembong No. 789,Depok,Jawa Barat
+518,CV Uyainah Utami,081 545 0267,Jalan Ahmad Yani No. 58,Jakarta Selatan,Jakarta
+519,Perum Simanjuntak,(0329) 282-8930,Gang Sukajadi No. 6,Jakarta Selatan,Jakarta
+520,Perum Wibisono Habibi Tbk,+62 (0484) 443 5784,Jalan Asia Afrika No. 647,Jakarta Timur,Jakarta
+521,Perum Rahayu Kurniawan (Persero) Tbk,(0877) 791-7487,Jl. Yos Sudarso No. 7,Bogor,Jawa Barat
+522,Perum Marpaung (Persero) Tbk,+62 (024) 857 8999,Jl. R.E Martadinata No. 66,Jakarta Selatan,Jakarta
+523,PD Suartini (Persero) Tbk,+62 (0016) 052-6417,Gg. Pasteur No. 4,Bogor,Jawa Barat
+524,PD Namaga (Persero) Tbk,+62-074-676-8983,Jalan Setiabudhi No. 60,Jakarta Timur,Jakarta
+525,CV Yolanda Agustina (Persero) Tbk,+62 (0873) 226-5571,Jl. Peta No. 7,Jakarta Barat,Jakarta
+526,CV Waskita,087 739 5670,Gang Jend. Sudirman No. 2,Jakarta Timur,Jakarta
+527,PD Samosir Saragih (Persero) Tbk,(0483) 467-0225,Gg. Antapani Lama No. 4,Depok,Jawa Barat
+528,CV Usada Tampubolon,+62 (001) 680-3104,Gg. Sadang Serang No. 35,Bogor,Jawa Barat
+529,Perum Adriansyah Pradana,+62 (0471) 487 6123,Jl. Kebonjati No. 4,Tangerang,Banten
+530,Perum Wahyudin,(061) 180 2854,Gang Cikutra Timur No. 4,Jakarta Selatan,Jakarta
+531,PT Pranowo Hidayat Tbk,+62 (358) 940 1457,Jl. Ir. H. Djuanda No. 183,Bogor,Jawa Barat
+532,Perum Pratama Sihotang,+62 (420) 964 4788,Gg. Jakarta No. 49,Jakarta Selatan,Jakarta
+533,PD Prasetya (Persero) Tbk,+62-39-829-3683,Jl. Pasteur No. 56,Tangerang Selatan,Banten
+534,UD Mandasari Tbk,+62 (941) 087-2250,Gg. Tebet Barat Dalam No. 68,Jakarta Selatan,Jakarta
+535,CV Lazuardi Tbk,+62 (090) 661-6594,Jalan Joyoboyo No. 50,Depok,Jawa Barat
+536,CV Tamba,+62-006-969-4335,Jalan BKR No. 467,Bogor,Jawa Barat
+537,PT Safitri,+62 (0062) 608 7175,Jl. Kutai No. 0,Bekasi,Jawa Barat
+538,CV Mangunsong,085 478 9957,Jalan Pasir Koja No. 2,Jakarta Timur,Jakarta
+539,PT Hassanah (Persero) Tbk,+62 (0147) 042-6421,Gg. Ir. H. Djuanda No. 046,Jakarta Pusat,Jakarta
+540,Perum Januar Hartati (Persero) Tbk,+62 (071) 691 0427,Jalan Kendalsari No. 52,Bekasi,Jawa Barat
+541,PD Winarno,(0100) 788 2575,Gg. Sentot Alibasa No. 7,Jakarta Timur,Jakarta
+542,Perum Waluyo Mardhiyah Tbk,+62-0622-604-2959,Gang Suniaraja No. 938,Jakarta Timur,Jakarta
+543,PD Rahmawati Mulyani,+62 (076) 216 5817,Jalan Moch. Toha No. 405,Jakarta Utara,Jakarta
+544,UD Yuliarti,(053) 117-3536,Jl. Kapten Muslihat No. 495,Jakarta Selatan,Jakarta
+545,PD Setiawan,+62 (400) 886-7934,Jl. Jakarta No. 1,Jakarta Utara,Jakarta
+546,Perum Firgantoro Handayani (Persero) Tbk,+62 (0029) 731 9083,Gg. Ahmad Dahlan No. 84,Jakarta Utara,Jakarta
+547,PT Wibisono (Persero) Tbk,+62 (046) 517-6189,Jalan Cikapayang No. 6,Jakarta Utara,Jakarta
+548,PD Damanik Tamba Tbk,(074) 832 4273,Gang Gedebage Selatan No. 31,Jakarta Timur,Jakarta
+822,UD Uyainah,087 105 6422,Gang Ciwastra No. 555,Jakarta Timur,Jakarta
+549,PT Melani Adriansyah,+62 (754) 334-8280,Jalan Cihampelas No. 71,Jakarta Barat,Jakarta
+550,PT Marpaung Uwais Tbk,+62 (088) 497-6533,Jalan Jend. A. Yani No. 6,Bekasi,Jawa Barat
+551,UD Lazuardi Waluyo,+62 (040) 174-3925,Gang Astana Anyar No. 3,Jakarta Selatan,Jakarta
+552,UD Habibi,+62-098-714-6866,Gang Raya Setiabudhi No. 382,Jakarta Timur,Jakarta
+553,PD Palastri Saptono (Persero) Tbk,088 231 1484,Jl. Bangka Raya No. 712,Tangerang,Banten
+554,CV Yulianti Nababan,+62 (0941) 214 2406,Jalan Stasiun Wonokromo No. 1,Jakarta Utara,Jakarta
+555,CV Winarno (Persero) Tbk,+62 (71) 412-4675,Gang KH Amin Jasuta No. 1,Jakarta Barat,Jakarta
+556,UD Mayasari (Persero) Tbk,+62-671-753-4889,Gg. Bangka Raya No. 322,Jakarta Timur,Jakarta
+557,PT Astuti Rahmawati,+62-305-384-7855,Gg. Kutai No. 60,Bogor,Jawa Barat
+558,CV Uyainah,+62 (0920) 300-2610,Jl. H.J Maemunah No. 52,Jakarta Utara,Jakarta
+559,PT Uyainah Hariyah,+62-004-670-2427,Gg. Joyoboyo No. 754,Jakarta Timur,Jakarta
+560,PT Hakim (Persero) Tbk,+62 (022) 036 8922,Gang Cikutra Timur No. 705,Jakarta Timur,Jakarta
+561,CV Siregar Permadi,(024) 483 3646,Gang Jayawijaya No. 74,Bekasi,Jawa Barat
+562,PD Nashiruddin Hidayanto (Persero) Tbk,+62 (101) 908 3619,Jalan Stasiun Wonokromo No. 800,Jakarta Timur,Jakarta
+563,UD Rajasa,+62 (0529) 144 8445,Gang HOS. Cokroaminoto No. 15,Jakarta Selatan,Jakarta
+564,PT Rahmawati Tarihoran,+62-01-078-7478,Gang Sukajadi No. 179,Jakarta Timur,Jakarta
+565,UD Yuniar,0836409627,Gang Ciwastra No. 7,Jakarta Barat,Jakarta
+566,Perum Simbolon Usada (Persero) Tbk,+62-61-863-3097,Jalan Sadang Serang No. 47,Bogor,Jawa Barat
+567,UD Pangestu Waskita (Persero) Tbk,+62 (0436) 343 8038,Jl. HOS. Cokroaminoto No. 9,Bekasi,Jawa Barat
+568,Perum Rahimah,0844085567,Gg. Ir. H. Djuanda No. 940,Jakarta Timur,Jakarta
+569,PD Manullang (Persero) Tbk,(0676) 551 1838,Jalan Sukajadi No. 080,Jakarta Barat,Jakarta
+570,UD Maryadi,+62 (088) 416-9767,Jalan Kutisari Selatan No. 7,Tangerang,Banten
+571,CV Siregar Halimah,0803160286,Jl. Kebonjati No. 782,Bekasi,Jawa Barat
+572,PT Budiman,(021) 729-7285,Gang Soekarno Hatta No. 023,Jakarta Barat,Jakarta
+573,CV Sihombing Natsir,+62-098-426-1972,Gang Pacuan Kuda No. 589,Jakarta Timur,Jakarta
+574,PT Tampubolon Halimah (Persero) Tbk,+62 (332) 069-2651,Jalan Joyoboyo No. 31,Bekasi,Jawa Barat
+575,PT Salahudin (Persero) Tbk,+62-0077-445-0946,Gang Merdeka No. 224,Jakarta Barat,Jakarta
+576,UD Simanjuntak Tbk,+62-911-140-8549,Jalan PHH. Mustofa No. 9,Jakarta Pusat,Jakarta
+577,PD Anggraini Nasyiah (Persero) Tbk,(090) 187 7660,Jl. BKR No. 598,Jakarta Barat,Jakarta
+578,Perum Wastuti,+62-0623-326-2880,Gang Ciwastra No. 3,Depok,Jawa Barat
+579,CV Wasita Tbk,+62 (522) 480 3504,Jalan Jend. A. Yani No. 2,Jakarta Selatan,Jakarta
+580,PD Mandala (Persero) Tbk,+62 (0477) 575-9823,Gang Suniaraja No. 667,Jakarta Barat,Jakarta
+581,Perum Iswahyudi,+62 (061) 884 5659,Jl. Gardujati No. 5,Tangerang,Banten
+582,CV Rahmawati,(027) 587-3218,Gg. Dipenogoro No. 9,Jakarta Barat,Jakarta
+583,PT Mahendra Prastuti,(049) 768 0335,Jl. Moch. Toha No. 74,Jakarta Selatan,Jakarta
+584,CV Nashiruddin,+62 (087) 227 9229,Gg. Merdeka No. 00,Jakarta Utara,Jakarta
+585,PT Nasyiah Namaga (Persero) Tbk,+62 (81) 727-0262,Gang Kebonjati No. 99,Tangerang,Banten
+586,PT Palastri Adriansyah,083 430 7996,Gg. Joyoboyo No. 60,Tangerang Selatan,Banten
+587,Perum Hutapea Nugroho,+62 (0558) 973 7101,Gang Cikutra Timur No. 164,Jakarta Utara,Jakarta
+588,CV Megantara Adriansyah,+62 (82) 598 7906,Jl. H.J Maemunah No. 325,Jakarta Timur,Jakarta
+589,CV Ardianto Budiyanto Tbk,+62-799-969-8340,Gg. Pasteur No. 101,Bekasi,Jawa Barat
+590,PT Megantara Tbk,(0279) 461-3591,Jl. Surapati No. 21,Tangerang Selatan,Banten
+591,PT Adriansyah (Persero) Tbk,+62-379-712-8369,Jl. Indragiri No. 27,Jakarta Barat,Jakarta
+592,UD Anggriawan Tbk,+62-237-625-8746,Gg. H.J Maemunah No. 235,Jakarta Selatan,Jakarta
+593,UD Nababan Siregar Tbk,+62 (97) 995 2647,Jalan PHH. Mustofa No. 101,Tangerang,Banten
+594,Perum Thamrin (Persero) Tbk,+62-0196-109-2264,Jalan Gedebage Selatan No. 157,Jakarta Barat,Jakarta
+595,UD Pradipta Tarihoran (Persero) Tbk,+62-017-003-7405,Gg. Suniaraja No. 0,Tangerang,Banten
+596,Perum Rahimah Mandasari Tbk,+62 (084) 693 5421,Jl. Laswi No. 5,Bekasi,Jawa Barat
+597,PT Napitupulu Tarihoran Tbk,(092) 633 6457,Gg. Dipatiukur No. 86,Jakarta Pusat,Jakarta
+598,Perum Pertiwi Yuniar,(008) 735 1710,Gg. Peta No. 41,Bekasi,Jawa Barat
+599,Perum Simanjuntak (Persero) Tbk,+62 (091) 748 3534,Gg. Cikutra Timur No. 825,Jakarta Timur,Jakarta
+600,CV Widodo Wastuti Tbk,0824695843,Jl. BKR No. 6,Bogor,Jawa Barat
+601,Perum Wahyudin Usada,(0345) 849 1282,Gang Dipenogoro No. 8,Jakarta Selatan,Jakarta
+602,UD Firgantoro Tbk,(059) 622-8196,Jalan Cihampelas No. 967,Depok,Jawa Barat
+603,CV Rajasa,+62-069-490-6923,Gg. Kutisari Selatan No. 90,Jakarta Utara,Jakarta
+604,Perum Wacana Lailasari (Persero) Tbk,+62-076-149-0085,Jalan Suniaraja No. 42,Jakarta Pusat,Jakarta
+605,UD Tarihoran Mustofa,(0525) 987 7334,Gang Dipenogoro No. 1,Jakarta Barat,Jakarta
+606,PT Purwanti (Persero) Tbk,+62 (011) 318 1350,Gang Sukabumi No. 2,Tangerang Selatan,Banten
+607,PT Namaga (Persero) Tbk,(092) 083 6362,Gg. Moch. Toha No. 7,Jakarta Timur,Jakarta
+608,UD Nainggolan (Persero) Tbk,+62 (0779) 000-2404,Jl. Gardujati No. 1,Jakarta Selatan,Jakarta
+609,PD Rahimah Santoso,(0359) 024 9155,Gang Peta No. 132,Jakarta Pusat,Jakarta
+610,PT Pranowo,+62-04-970-8030,Jalan Lembong No. 2,Jakarta Timur,Jakarta
+611,CV Usada Tbk,+62 (037) 629 9568,Jl. Pacuan Kuda No. 9,Bekasi,Jawa Barat
+612,PD Pranowo Tbk,(0306) 655 3874,Jl. Ahmad Yani No. 8,Depok,Jawa Barat
+613,UD Agustina (Persero) Tbk,+62 (83) 104-5838,Jalan Kutai No. 9,Tangerang Selatan,Banten
+614,Perum Iswahyudi Mayasari (Persero) Tbk,+62 (10) 462 4700,Jalan M.H Thamrin No. 8,Jakarta Utara,Jakarta
+615,PT Megantara Situmorang,+62 (0517) 027 2886,Jalan Cihampelas No. 2,Bekasi,Jawa Barat
+616,CV Maheswara Pudjiastuti Tbk,(0420) 348 8954,Gg. Gegerkalong Hilir No. 14,Jakarta Timur,Jakarta
+617,UD Utami (Persero) Tbk,+62-0369-893-0268,Gang Indragiri No. 315,Jakarta Timur,Jakarta
+618,Perum Waskita (Persero) Tbk,(044) 645 0464,Jl. K.H. Wahid Hasyim No. 353,Jakarta Barat,Jakarta
+619,PD Safitri Padmasari Tbk,+62-0029-140-2272,Gang Jend. Sudirman No. 2,Jakarta Pusat,Jakarta
+620,PD Saragih Wacana,+62 (524) 121 7043,Gg. Ronggowarsito No. 005,Depok,Jawa Barat
+621,Perum Ardianto (Persero) Tbk,+62-24-915-1805,Gang Jakarta No. 55,Jakarta Selatan,Jakarta
+622,PD Nasyiah Tbk,+62-57-256-3530,Gg. Kutisari Selatan No. 320,Jakarta Timur,Jakarta
+623,PT Pangestu Tbk,+62-18-886-7208,Gang Sukajadi No. 88,Jakarta Timur,Jakarta
+624,UD Mandala,(0405) 306-3707,Jalan Bangka Raya No. 0,Jakarta Barat,Jakarta
+625,CV Rajata Yulianti,+62 (306) 240-5789,Gg. Cikutra Barat No. 1,Tangerang Selatan,Banten
+626,PD Mayasari Tbk,+62 (015) 190-4278,Jalan PHH. Mustofa No. 2,Tangerang Selatan,Banten
+627,CV Natsir,+62 (53) 680-5269,Gang Lembong No. 1,Jakarta Barat,Jakarta
+628,UD Prasasta (Persero) Tbk,085 160 3479,Gg. Yos Sudarso No. 86,Jakarta Timur,Jakarta
+629,UD Maheswara,+62-56-878-8382,Jl. Cikutra Timur No. 011,Tangerang,Banten
+630,Perum Nuraini,+62 (0780) 908-2360,Jl. Rajawali Barat No. 98,Jakarta Timur,Jakarta
+631,UD Agustina Yulianti (Persero) Tbk,+62 (043) 369-5357,Gang Gegerkalong Hilir No. 75,Bekasi,Jawa Barat
+632,Perum Hutasoit (Persero) Tbk,+62 (022) 316 3823,Gg. Astana Anyar No. 5,Bekasi,Jawa Barat
+633,CV Wasita Tbk,0837881389,Gang Dr. Djunjunan No. 563,Jakarta Timur,Jakarta
+634,Perum Najmudin Zulkarnain,+62-59-813-4091,Gg. Jend. A. Yani No. 5,Jakarta Timur,Jakarta
+635,UD Dabukke Sirait,(0429) 218 2009,Jl. H.J Maemunah No. 13,Tangerang Selatan,Banten
+636,PD Pranowo Padmasari (Persero) Tbk,+62 (037) 635-5443,Gg. BKR No. 63,Jakarta Selatan,Jakarta
+637,PD Suartini Zulkarnain Tbk,+62-293-153-3321,Gang Rajiman No. 6,Tangerang,Banten
+638,PD Mandasari Nuraini (Persero) Tbk,+62-226-258-4430,Gg. Jend. A. Yani No. 13,Jakarta Timur,Jakarta
+639,UD Wijayanti (Persero) Tbk,(057) 581-0643,Jalan Rawamangun No. 563,Tangerang Selatan,Banten
+640,PD Sitompul Wahyudin,+62 (11) 809 6611,Jl. K.H. Wahid Hasyim No. 758,Jakarta Selatan,Jakarta
+641,PT Anggriawan Mahendra,(0381) 908-2865,Jalan Raya Ujungberung No. 615,Tangerang,Banten
+642,PD Usamah (Persero) Tbk,(063) 062 8738,Gang Rumah Sakit No. 93,Jakarta Timur,Jakarta
+643,PT Astuti,(0276) 711 9721,Gg. Kutai No. 3,Jakarta Barat,Jakarta
+644,Perum Aryani Hutagalung,+62 (0109) 891-5169,Gg. R.E Martadinata No. 8,Jakarta Timur,Jakarta
+645,PT Yuniar,+62 (302) 599 2263,Gg. Cempaka No. 52,Jakarta Barat,Jakarta
+646,CV Rajasa Habibi,+62-062-894-5916,Gang Cikutra Timur No. 209,Tangerang,Banten
+647,PD Prastuti,+62-45-978-3075,Jalan Abdul Muis No. 652,Jakarta Timur,Jakarta
+648,Perum Nuraini,+62 (046) 496-3495,Gang Kiaracondong No. 3,Tangerang,Banten
+649,PD Damanik Pangestu (Persero) Tbk,+62 (592) 999 3049,Jalan Joyoboyo No. 745,Jakarta Utara,Jakarta
+650,Perum Rahimah,+62-067-132-2628,Gg. Pasirkoja No. 69,Jakarta Timur,Jakarta
+651,CV Widiastuti Pradipta,(0012) 806-7812,Gang Suryakencana No. 46,Bekasi,Jawa Barat
+652,Perum Yolanda,+62 (18) 253 8730,Gg. M.H Thamrin No. 013,Jakarta Utara,Jakarta
+653,PT Marbun Rahimah,+62-03-211-1189,Jalan Setiabudhi No. 9,Tangerang Selatan,Banten
+654,Perum Prasetyo Firmansyah,+62 (14) 670 5727,Gang Moch. Toha No. 8,Jakarta Utara,Jakarta
+655,PD Winarno Suwarno (Persero) Tbk,+62 (65) 652 4803,Jl. Kutisari Selatan No. 329,Jakarta Barat,Jakarta
+656,PT Mayasari Pradipta Tbk,+62-0791-045-3169,Gg. Cihampelas No. 009,Depok,Jawa Barat
+657,CV Santoso Firgantoro (Persero) Tbk,(0381) 384-8946,Jalan BKR No. 07,Jakarta Utara,Jakarta
+658,Perum Napitupulu Winarsih Tbk,+62-008-186-3862,Gang Stasiun Wonokromo No. 15,Jakarta Barat,Jakarta
+659,PT Nashiruddin (Persero) Tbk,+62-0514-260-9341,Jl. Otto Iskandardinata No. 98,Jakarta Utara,Jakarta
+660,PT Nugroho,(047) 418-5853,Gg. Ahmad Yani No. 6,Depok,Jawa Barat
+661,Perum Narpati Yolanda,+62 (900) 408-2291,Gang Pasirkoja No. 6,Tangerang,Banten
+662,UD Sihotang Tbk,081 461 6692,Jalan Veteran No. 620,Bekasi,Jawa Barat
+663,PT Suryatmi Gunarto,+62 (0825) 367 1278,Jl. S. Parman No. 238,Tangerang,Banten
+664,PD Oktaviani Sudiati Tbk,+62-0092-201-5379,Jl. M.H Thamrin No. 43,Jakarta Utara,Jakarta
+665,PT Sudiati Tbk,+62 (56) 282-5624,Gg. KH Amin Jasuta No. 515,Jakarta Utara,Jakarta
+666,PT Nuraini (Persero) Tbk,+62 (549) 604 2834,Gang S. Parman No. 80,Tangerang Selatan,Banten
+667,UD Kuswoyo,(067) 911-9183,Gang Veteran No. 576,Bogor,Jawa Barat
+668,PD Utami Hutasoit Tbk,+62 (16) 163 8609,Jalan Bangka Raya No. 567,Depok,Jawa Barat
+669,PD Sitorus Rajata,+62-0204-243-2142,Jl. Gegerkalong Hilir No. 904,Tangerang,Banten
+670,Perum Laksmiwati,+62-59-979-5530,Jl. Dipatiukur No. 3,Bekasi,Jawa Barat
+671,PT Wasita Prastuti,0888556347,Gg. Jend. A. Yani No. 29,Jakarta Pusat,Jakarta
+672,PD Sirait Saptono Tbk,0863044835,Jalan Jamika No. 8,Bekasi,Jawa Barat
+673,PD Sitompul (Persero) Tbk,+62-805-110-2046,Jalan Cihampelas No. 453,Jakarta Timur,Jakarta
+674,Perum Saptono Haryanto (Persero) Tbk,+62 (72) 817-1089,Gg. Cihampelas No. 829,Jakarta Selatan,Jakarta
+675,UD Rajata (Persero) Tbk,+62 (317) 155 7776,Jl. Dipenogoro No. 7,Jakarta Barat,Jakarta
+676,PT Natsir,+62 (0671) 754-8553,Jalan Merdeka No. 231,Jakarta Timur,Jakarta
+677,CV Lazuardi,+62 (074) 842-6443,Jalan Erlangga No. 8,Jakarta Selatan,Jakarta
+678,UD Thamrin Iswahyudi,+62 (0390) 334 4155,Gg. Pasir Koja No. 73,Jakarta Timur,Jakarta
+679,Perum Marpaung Santoso,(098) 786 4779,Jalan Dipenogoro No. 01,Depok,Jawa Barat
+680,PT Sihombing (Persero) Tbk,+62 (084) 680-3834,Jalan Laswi No. 115,Jakarta Barat,Jakarta
+681,PD Riyanti (Persero) Tbk,+62 (32) 993-9825,Gang Soekarno Hatta No. 644,Jakarta Barat,Jakarta
+682,PD Narpati Utama Tbk,+62 (96) 119 9697,Jl. Pasirkoja No. 96,Tangerang,Banten
+683,CV Adriansyah Tbk,+62 (83) 245-0867,Gg. Ronggowarsito No. 04,Jakarta Barat,Jakarta
+684,UD Ramadan Irawan Tbk,+62 (226) 521-6440,Gg. Soekarno Hatta No. 53,Jakarta Selatan,Jakarta
+685,PD Prasasta Haryanto,(0270) 319-9827,Jl. Abdul Muis No. 54,Depok,Jawa Barat
+686,PD Purnawati (Persero) Tbk,(0048) 019-4062,Jalan Ahmad Dahlan No. 42,Jakarta Barat,Jakarta
+687,PD Dabukke Usada Tbk,(0597) 334-4941,Gg. PHH. Mustofa No. 8,Bekasi,Jawa Barat
+688,UD Januar (Persero) Tbk,(095) 813-4130,Gg. Sadang Serang No. 39,Jakarta Timur,Jakarta
+689,UD Marbun Mayasari,+62 (86) 952 9940,Jl. M.T Haryono No. 445,Bekasi,Jawa Barat
+690,PT Nurdiyanti Anggraini Tbk,+62 (52) 429 5229,Jalan Suniaraja No. 6,Jakarta Timur,Jakarta
+691,PD Nasyidah Wibisono (Persero) Tbk,+62-0578-362-7272,Jl. R.E Martadinata No. 1,Jakarta Pusat,Jakarta
+692,UD Padmasari,+62-087-812-9012,Gg. Tebet Barat Dalam No. 935,Jakarta Selatan,Jakarta
+693,CV Thamrin Wahyuni Tbk,(0710) 153-9296,Gg. Joyoboyo No. 50,Depok,Jawa Barat
+694,UD Prasasta (Persero) Tbk,085 333 6609,Gg. Tubagus Ismail No. 352,Tangerang Selatan,Banten
+695,PT Halimah Pangestu (Persero) Tbk,+62 (0066) 206 7401,Gg. Yos Sudarso No. 50,Jakarta Utara,Jakarta
+696,PD Usada Tbk,+62 (547) 576-4765,Jalan Laswi No. 99,Jakarta Timur,Jakarta
+697,UD Hariyah Winarno (Persero) Tbk,+62 (425) 405 9649,Gg. Ahmad Dahlan No. 049,Jakarta Pusat,Jakarta
+698,CV Natsir Tbk,+62 (210) 951-6869,Jalan Raya Setiabudhi No. 5,Jakarta Utara,Jakarta
+699,Perum Wastuti,+62 (093) 262 3839,Gang Wonoayu No. 669,Jakarta Selatan,Jakarta
+700,Perum Tampubolon Hutagalung,0802676985,Jl. Pasteur No. 82,Jakarta Utara,Jakarta
+701,UD Andriani Mansur (Persero) Tbk,+62 (070) 922-9840,Gg. Siliwangi No. 3,Tangerang,Banten
+702,Perum Wacana,086 516 9006,Gg. Cikutra Barat No. 550,Jakarta Selatan,Jakarta
+703,UD Saptono Hidayat (Persero) Tbk,+62-0268-194-5488,Gang Ahmad Yani No. 28,Tangerang Selatan,Banten
+704,PD Fujiati (Persero) Tbk,085 961 2241,Jl. Ahmad Dahlan No. 827,Tangerang Selatan,Banten
+705,UD Utami (Persero) Tbk,(0452) 313-1118,Gg. Cempaka No. 21,Tangerang,Banten
+706,PT Nurdiyanti,+62 (0133) 524 8505,Jl. BKR No. 0,Jakarta Barat,Jakarta
+707,UD Wahyuni Permata,(0768) 870-0096,Jl. Antapani Lama No. 56,Jakarta Timur,Jakarta
+708,PT Wijayanti (Persero) Tbk,(015) 351-5487,Gang Ciumbuleuit No. 5,Depok,Jawa Barat
+709,CV Widiastuti Wijayanti (Persero) Tbk,082 677 4414,Gg. Gegerkalong Hilir No. 4,Jakarta Timur,Jakarta
+710,PD Sitorus Dabukke,+62-044-017-4193,Jalan Yos Sudarso No. 089,Jakarta Barat,Jakarta
+711,PT Najmudin Gunarto,+62-280-218-8687,Gg. Kutisari Selatan No. 23,Tangerang,Banten
+712,UD Mustofa Dabukke Tbk,+62 (23) 061-7906,Gg. Kebonjati No. 92,Jakarta Barat,Jakarta
+713,PT Tampubolon Winarno Tbk,+62 (089) 187-5104,Jl. Pasirkoja No. 5,Bogor,Jawa Barat
+714,UD Mansur Prasetya,0884331909,Gang Ciumbuleuit No. 9,Bogor,Jawa Barat
+715,UD Lazuardi Laksita,+62-0779-132-9537,Jl. Joyoboyo No. 4,Depok,Jawa Barat
+716,CV Prastuti Pradana,+62-98-251-4657,Jl. Ahmad Yani No. 22,Depok,Jawa Barat
+717,PT Prabowo Tarihoran,0857572909,Jl. Gardujati No. 7,Tangerang Selatan,Banten
+718,PD Andriani,087 596 3625,Gg. Ciwastra No. 49,Jakarta Barat,Jakarta
+719,CV Jailani Wahyudin,+62 (0645) 900 7027,Gang Kutai No. 6,Tangerang,Banten
+720,Perum Sihombing Tbk,+62 (005) 527-5239,Jalan Otto Iskandardinata No. 44,Jakarta Pusat,Jakarta
+721,UD Agustina Gunarto,+62 (099) 954 2245,Gg. Cempaka No. 994,Jakarta Timur,Jakarta
+722,CV Damanik Prabowo,+62 (59) 073-2295,Gang Rawamangun No. 637,Jakarta Utara,Jakarta
+723,CV Zulkarnain Adriansyah,+62-774-002-1061,Gang Cempaka No. 3,Jakarta Selatan,Jakarta
+724,PD Siregar Aryani,+62 (235) 289 3103,Gg. M.H Thamrin No. 285,Jakarta Utara,Jakarta
+725,CV Mansur,+62 (44) 511 7331,Gang Rajawali Timur No. 423,Tangerang,Banten
+726,PD Prabowo Prasetyo Tbk,+62-0590-318-2273,Gg. K.H. Wahid Hasyim No. 9,Jakarta Selatan,Jakarta
+727,UD Gunawan (Persero) Tbk,(074) 472 2190,Gg. Kapten Muslihat No. 6,Bekasi,Jawa Barat
+728,UD Prakasa Tbk,+62-006-384-1754,Jl. Ciumbuleuit No. 14,Tangerang,Banten
+729,Perum Megantara Novitasari,(0576) 470 6781,Jalan Ahmad Yani No. 091,Bogor,Jawa Barat
+730,Perum Dabukke Rahayu Tbk,+62 (60) 811-2427,Gang Astana Anyar No. 0,Jakarta Timur,Jakarta
+731,PD Napitupulu Marbun,+62 (0190) 190 2921,Jalan Rajiman No. 23,Depok,Jawa Barat
+732,Perum Usamah,(0824) 187-2406,Jalan Stasiun Wonokromo No. 741,Jakarta Barat,Jakarta
+733,UD Lazuardi Tbk,+62 (0224) 554-7229,Jl. Waringin No. 171,Jakarta Timur,Jakarta
+734,Perum Maryadi Sitompul,+62 (047) 692 0855,Jl. Astana Anyar No. 8,Jakarta Selatan,Jakarta
+735,PD Suwarno Haryanti,083 576 1879,Gg. Dipatiukur No. 49,Depok,Jawa Barat
+736,Perum Pranowo,+62 (53) 037-5956,Gg. Ronggowarsito No. 1,Bekasi,Jawa Barat
+737,PD Andriani Widodo,+62-35-675-5195,Jalan Bangka Raya No. 6,Jakarta Timur,Jakarta
+738,Perum Manullang,+62 (39) 385 0691,Jalan Cihampelas No. 98,Jakarta Barat,Jakarta
+739,UD Novitasari Narpati,(011) 186 1346,Jl. Kiaracondong No. 68,Jakarta Timur,Jakarta
+740,PT Usada Napitupulu,+62 (15) 685-0748,Jalan Jayawijaya No. 620,Jakarta Utara,Jakarta
+741,CV Hasanah Hastuti Tbk,+62 (46) 913 7965,Gang Sentot Alibasa No. 919,Jakarta Utara,Jakarta
+742,CV Nainggolan Saptono,+62-673-519-4165,Jl. R.E Martadinata No. 4,Jakarta Timur,Jakarta
+743,PT Natsir Simanjuntak (Persero) Tbk,+62 (456) 574-4547,Jalan Cikutra Barat No. 7,Jakarta Selatan,Jakarta
+744,UD Wacana Rahayu (Persero) Tbk,+62-0512-295-4135,Gg. Pasirkoja No. 144,Jakarta Barat,Jakarta
+745,Perum Namaga Halimah,+62 (044) 772-5067,Jl. W.R. Supratman No. 784,Jakarta Selatan,Jakarta
+746,PT Sudiati Hartati Tbk,0811727099,Gg. Raya Setiabudhi No. 95,Jakarta Selatan,Jakarta
+747,CV Safitri (Persero) Tbk,+62 (65) 788 1506,Gang BKR No. 9,Tangerang,Banten
+748,Perum Sihotang,+62 (33) 794-7080,Gang Gedebage Selatan No. 3,Bekasi,Jawa Barat
+749,CV Suryono Gunawan Tbk,0886009418,Gang Cempaka No. 654,Jakarta Timur,Jakarta
+750,UD Yolanda Yulianti Tbk,(0599) 399 1842,Jl. Moch. Ramdan No. 15,Depok,Jawa Barat
+751,PD Nainggolan Tbk,+62 (063) 388 7044,Jl. Jakarta No. 22,Jakarta Pusat,Jakarta
+752,UD Purwanti (Persero) Tbk,+62-28-829-4373,Gg. Rumah Sakit No. 4,Jakarta Timur,Jakarta
+753,CV Anggraini (Persero) Tbk,+62-21-346-5025,Jalan Gedebage Selatan No. 9,Tangerang,Banten
+754,Perum Farida Namaga,+62 (0295) 797 0852,Jl. K.H. Wahid Hasyim No. 948,Jakarta Utara,Jakarta
+755,Perum Hardiansyah Megantara Tbk,0883315628,Gg. Cempaka No. 17,Depok,Jawa Barat
+756,UD Wastuti Hutasoit,+62-97-311-2432,Jalan Bangka Raya No. 6,Jakarta Utara,Jakarta
+757,CV Budiyanto (Persero) Tbk,(0669) 117-9968,Gg. Jend. A. Yani No. 1,Jakarta Barat,Jakarta
+758,UD Gunarto Tbk,(0585) 759 5243,Gg. HOS. Cokroaminoto No. 354,Tangerang,Banten
+759,UD Puspasari Tbk,(0276) 669-2333,Gang Kapten Muslihat No. 113,Jakarta Utara,Jakarta
+760,UD Latupono Ramadan,(061) 691 9419,Gg. Moch. Ramdan No. 05,Bekasi,Jawa Barat
+761,PD Sudiati Winarsih (Persero) Tbk,087 217 4176,Jl. HOS. Cokroaminoto No. 723,Bogor,Jawa Barat
+762,UD Kusumo Tbk,+62-053-285-3942,Jl. Joyoboyo No. 39,Jakarta Barat,Jakarta
+763,Perum Winarsih Hakim,+62 (89) 137-5772,Jalan Lembong No. 499,Jakarta Selatan,Jakarta
+764,PD Firmansyah Setiawan Tbk,+62 (0911) 054-8356,Gang Asia Afrika No. 3,Jakarta Utara,Jakarta
+765,Perum Manullang (Persero) Tbk,(022) 381-6457,Gg. Raya Ujungberung No. 09,Jakarta Selatan,Jakarta
+766,Perum Nasyiah Megantara (Persero) Tbk,(0134) 456-2387,Gang Kutisari Selatan No. 67,Bekasi,Jawa Barat
+767,UD Adriansyah Tbk,+62 (0610) 400-6517,Jalan H.J Maemunah No. 361,Jakarta Timur,Jakarta
+768,CV Ramadan Tbk,+62-956-236-9097,Jl. Kapten Muslihat No. 585,Depok,Jawa Barat
+769,PD Wasita,085 096 2791,Gg. Lembong No. 2,Jakarta Barat,Jakarta
+770,PT Latupono Zulkarnain Tbk,+62-020-095-0494,Gg. Sukajadi No. 578,Jakarta Utara,Jakarta
+771,UD Usamah Nasyidah,+62-990-423-6017,Gg. Soekarno Hatta No. 21,Jakarta Timur,Jakarta
+772,UD Wahyudin,+62-12-557-8019,Gg. Antapani Lama No. 5,Bekasi,Jawa Barat
+773,CV Suwarno Kusmawati,+62-0159-670-7595,Jl. Ir. H. Djuanda No. 73,Bekasi,Jawa Barat
+774,PD Napitupulu Siregar (Persero) Tbk,+62-0095-115-0149,Jalan Laswi No. 40,Jakarta Utara,Jakarta
+775,PT Andriani Tbk,+62 (075) 609-2861,Gang Pasirkoja No. 971,Jakarta Selatan,Jakarta
+776,UD Simanjuntak Simanjuntak Tbk,+62 (58) 245 0978,Jl. Ronggowarsito No. 03,Jakarta Barat,Jakarta
+777,PD Iswahyudi Tbk,(014) 154 4258,Jl. Dr. Djunjunan No. 210,Jakarta Selatan,Jakarta
+778,PD Rahimah Zulkarnain (Persero) Tbk,+62-0767-244-9294,Gg. Erlangga No. 123,Depok,Jawa Barat
+779,Perum Rahayu,+62 (25) 302-9592,Gang Jayawijaya No. 1,Depok,Jawa Barat
+780,UD Wibowo (Persero) Tbk,+62 (014) 127-7797,Jalan Cikutra Timur No. 6,Jakarta Timur,Jakarta
+781,Perum Simanjuntak Narpati (Persero) Tbk,+62 (093) 030 3081,Gg. Moch. Ramdan No. 337,Jakarta Barat,Jakarta
+782,CV Halimah Utami (Persero) Tbk,0840603873,Gg. Rumah Sakit No. 6,Jakarta Barat,Jakarta
+783,PD Pranowo Mustofa Tbk,(094) 830-8111,Jl. H.J Maemunah No. 09,Jakarta Timur,Jakarta
+784,Perum Maryati Hasanah,+62 (085) 330 3945,Gg. Dr. Djunjunan No. 119,Jakarta Barat,Jakarta
+785,PT Dongoran Tbk,+62-38-914-5240,Jalan Setiabudhi No. 876,Jakarta Selatan,Jakarta
+786,PD Santoso,(079) 395-6875,Jl. Pasir Koja No. 3,Jakarta Timur,Jakarta
+787,UD Wasita,084 127 4829,Gg. Cempaka No. 40,Jakarta Barat,Jakarta
+788,Perum Andriani,(052) 836 8239,Jl. Pacuan Kuda No. 9,Tangerang Selatan,Banten
+789,UD Laksmiwati Novitasari,(078) 207 9483,Jalan Pelajar Pejuang No. 342,Jakarta Barat,Jakarta
+790,CV Wasita Andriani Tbk,+62 (092) 775-4703,Jalan W.R. Supratman No. 677,Jakarta Pusat,Jakarta
+791,UD Winarno,+62 (62) 254-5425,Gg. Peta No. 8,Jakarta Pusat,Jakarta
+792,Perum Pratama,+62 (0927) 130 3133,Gg. Cihampelas No. 459,Jakarta Selatan,Jakarta
+793,PD Utami Saefullah,080 760 3234,Gg. Medokan Ayu No. 2,Bekasi,Jawa Barat
+794,PT Pradana Marbun,+62-16-833-7942,Gg. Pasteur No. 26,Jakarta Selatan,Jakarta
+795,PD Susanti Tbk,+62 (077) 560-0962,Jl. Veteran No. 01,Bekasi,Jawa Barat
+796,UD Hakim,+62 (0264) 285-7653,Gg. Indragiri No. 0,Jakarta Pusat,Jakarta
+797,PD Nurdiyanti,(0842) 015 5226,Gang Otto Iskandardinata No. 4,Jakarta Timur,Jakarta
+798,PT Sinaga,+62 (716) 759-4587,Gg. Cikutra Barat No. 40,Bekasi,Jawa Barat
+799,PT Rajasa Maheswara,(092) 932 0389,Jalan Suniaraja No. 9,Tangerang,Banten
+800,UD Usada Mayasari Tbk,+62 (230) 600-1717,Jl. Rumah Sakit No. 72,Bekasi,Jawa Barat
+801,PT Wacana Tarihoran (Persero) Tbk,(038) 484 1506,Gg. Sentot Alibasa No. 4,Jakarta Barat,Jakarta
+802,CV Santoso Dongoran,+62 (80) 296-6735,Jalan K.H. Wahid Hasyim No. 297,Depok,Jawa Barat
+803,UD Nuraini Tbk,+62 (55) 079 7119,Jl. Soekarno Hatta No. 681,Jakarta Selatan,Jakarta
+804,PT Prasasta,(091) 943 0372,Jl. Indragiri No. 4,Tangerang,Banten
+805,PD Januar (Persero) Tbk,0825006116,Gang Otto Iskandardinata No. 910,Jakarta Selatan,Jakarta
+806,Perum Sihombing Habibi (Persero) Tbk,+62-0773-678-8154,Gg. Gegerkalong Hilir No. 0,Bekasi,Jawa Barat
+807,PT Padmasari,(090) 036-6583,Gg. Jamika No. 435,Jakarta Timur,Jakarta
+808,CV Hassanah Saragih,+62 (000) 687-4476,Gg. Jakarta No. 168,Tangerang,Banten
+809,CV Prasetya,+62-38-705-4455,Jalan KH Amin Jasuta No. 55,Tangerang,Banten
+810,Perum Sihombing Anggraini,+62-441-937-6274,Jalan Jend. A. Yani No. 655,Tangerang,Banten
+811,Perum Usamah Marpaung,083 357 9793,Gg. Abdul Muis No. 8,Jakarta Pusat,Jakarta
+812,Perum Nasyidah,+62 (009) 972 9341,Jl. W.R. Supratman No. 7,Bekasi,Jawa Barat
+813,UD Salahudin Tbk,+62 (0722) 723 7622,Gang W.R. Supratman No. 6,Jakarta Pusat,Jakarta
+814,CV Budiman Permata,085 790 4162,Jalan Wonoayu No. 93,Jakarta Barat,Jakarta
+815,PT Mustofa Tbk,+62 (36) 473-4595,Gg. Kutisari Selatan No. 1,Tangerang,Banten
+816,Perum Handayani Tbk,(0592) 479 6985,Jalan Surapati No. 5,Jakarta Pusat,Jakarta
+817,PD Nuraini (Persero) Tbk,(0663) 137 4467,Jl. Indragiri No. 4,Tangerang Selatan,Banten
+818,PD Natsir Wastuti Tbk,(092) 728 1241,Gang Ciumbuleuit No. 54,Jakarta Timur,Jakarta
+819,CV Iswahyudi Saputra,+62-0402-360-0843,Jalan Waringin No. 97,Jakarta Selatan,Jakarta
+820,PT Wijaya Sirait (Persero) Tbk,(023) 572 2332,Jalan Ir. H. Djuanda No. 927,Bekasi,Jawa Barat
+821,CV Oktaviani Laksmiwati,089 409 1803,Jl. PHH. Mustofa No. 86,Jakarta Barat,Jakarta
+823,UD Novitasari Sinaga,080 917 1185,Gg. Sukajadi No. 456,Tangerang Selatan,Banten
+824,Perum Simanjuntak Hutasoit (Persero) Tbk,+62 (072) 598-1222,Jalan Joyoboyo No. 966,Jakarta Utara,Jakarta
+825,Perum Wijayanti,+62-042-088-8554,Gg. Sadang Serang No. 3,Jakarta Selatan,Jakarta
+826,CV Winarno Mandala,+62-987-092-0411,Jl. Ir. H. Djuanda No. 227,Jakarta Timur,Jakarta
+827,PD Latupono (Persero) Tbk,0874973742,Gg. Cempaka No. 79,Bogor,Jawa Barat
+828,PT Jailani Padmasari Tbk,0852140097,Jl. Bangka Raya No. 01,Jakarta Barat,Jakarta
+829,PT Dongoran (Persero) Tbk,+62 (0021) 554-8188,Jalan Dipatiukur No. 48,Jakarta Utara,Jakarta
+830,UD Yulianti,+62 (0089) 951 1870,Gang Kiaracondong No. 60,Bekasi,Jawa Barat
+831,PT Mustofa Laksita Tbk,+62-0042-110-4738,Jalan Cihampelas No. 243,Bekasi,Jawa Barat
+832,PD Yuliarti (Persero) Tbk,+62 (015) 820-8098,Jalan Antapani Lama No. 32,Bekasi,Jawa Barat
+833,Perum Wijaya Tbk,(0837) 536 4707,Jalan Ciumbuleuit No. 71,Tangerang Selatan,Banten
+834,PD Natsir (Persero) Tbk,+62 (634) 649 8628,Jl. Soekarno Hatta No. 19,Tangerang,Banten
+835,Perum Hardiansyah (Persero) Tbk,+62 (719) 521-0818,Jalan Antapani Lama No. 4,Jakarta Pusat,Jakarta
+836,PD Megantara,(018) 860-9754,Gg. Asia Afrika No. 19,Bekasi,Jawa Barat
+837,PT Susanti Namaga,+62 (0974) 847 2211,Jalan Jend. A. Yani No. 66,Bekasi,Jawa Barat
+838,PT Siregar Pertiwi Tbk,+62 (597) 499 2767,Jl. R.E Martadinata No. 9,Bekasi,Jawa Barat
+839,CV Yolanda (Persero) Tbk,0847064201,Jl. Asia Afrika No. 21,Jakarta Timur,Jakarta
+840,Perum Wahyuni,+62-719-589-0417,Gang Pasteur No. 427,Tangerang Selatan,Banten
+841,CV Widiastuti Suryono,+62 (520) 837 3551,Gang S. Parman No. 1,Tangerang Selatan,Banten
+842,Perum Hidayanto Najmudin (Persero) Tbk,+62-027-573-3228,Gang Ronggowarsito No. 93,Depok,Jawa Barat
+843,PT Mangunsong Marbun,+62-0921-361-7049,Jl. Dipenogoro No. 48,Jakarta Selatan,Jakarta
+844,Perum Wibowo Samosir,+62-064-470-0569,Gang Kapten Muslihat No. 371,Bekasi,Jawa Barat
+845,Perum Pratiwi Farida,+62 (02) 482-3759,Jalan Veteran No. 86,Jakarta Barat,Jakarta
+846,CV Situmorang,085 707 1361,Gang Wonoayu No. 27,Jakarta Timur,Jakarta
+847,PT Prastuti,(0822) 031-3761,Jalan H.J Maemunah No. 6,Jakarta Barat,Jakarta
+848,PD Melani Permata Tbk,+62 (049) 994-4578,Gang Kapten Muslihat No. 93,Jakarta Utara,Jakarta
+849,UD Adriansyah Nuraini,(041) 008-1092,Gang Otto Iskandardinata No. 17,Jakarta Pusat,Jakarta
+850,CV Suwarno Nasyidah,+62 (948) 937-7366,Jl. Veteran No. 517,Tangerang,Banten
+851,PD Padmasari Hutagalung (Persero) Tbk,+62 (009) 785-6006,Jl. M.H Thamrin No. 2,Tangerang,Banten
+852,Perum Wijaya (Persero) Tbk,+62 (80) 442-0385,Gg. Rawamangun No. 8,Jakarta Barat,Jakarta
+853,PD Saefullah Setiawan,(062) 610-4238,Jalan Jend. Sudirman No. 4,Bogor,Jawa Barat
+854,PT Halimah Tbk,0841784647,Gg. Pasir Koja No. 43,Jakarta Barat,Jakarta
+855,PD Zulaika,(0502) 133-6644,Gg. Raya Ujungberung No. 1,Jakarta Timur,Jakarta
+856,Perum Utama Budiman,+62 (74) 244-0996,Gg. Cihampelas No. 447,Bekasi,Jawa Barat
+857,Perum Tampubolon Hidayanto Tbk,+62-0137-962-9492,Gg. Sukajadi No. 969,Jakarta Pusat,Jakarta
+858,Perum Suryatmi,+62 (41) 800-1422,Gg. Asia Afrika No. 720,Tangerang Selatan,Banten
+859,CV Yuliarti,+62 (093) 454-0114,Gang H.J Maemunah No. 23,Tangerang,Banten
+860,CV Uyainah,+62 (556) 074 9196,Gg. Kebonjati No. 602,Bekasi,Jawa Barat
+861,PD Safitri Saragih,+62 (028) 157 8373,Jl. Gedebage Selatan No. 88,Bekasi,Jawa Barat
+862,CV Lazuardi Pradana (Persero) Tbk,+62-748-079-3015,Gg. Medokan Ayu No. 284,Jakarta Timur,Jakarta
+863,PT Tampubolon,+62 (026) 329-0520,Jalan M.T Haryono No. 0,Jakarta Utara,Jakarta
+864,UD Winarno Namaga,+62 (091) 576-7634,Gg. Astana Anyar No. 50,Jakarta Utara,Jakarta
+865,Perum Riyanti Mansur Tbk,(097) 993 2648,Jl. Waringin No. 58,Bekasi,Jawa Barat
+866,Perum Mulyani (Persero) Tbk,(059) 124-9808,Gang Ronggowarsito No. 42,Bogor,Jawa Barat
+867,Perum Tarihoran Kuswandari,+62 (076) 580 2188,Gg. Cihampelas No. 8,Jakarta Timur,Jakarta
+868,UD Hassanah,+62-0507-236-4758,Jalan Cempaka No. 6,Jakarta Barat,Jakarta
+869,UD Halimah Pratama (Persero) Tbk,(0762) 848 0256,Gang Kapten Muslihat No. 6,Bekasi,Jawa Barat
+870,UD Situmorang Kurniawan,+62 (031) 232-4429,Gang Raya Setiabudhi No. 020,Tangerang,Banten
+871,PT Hakim,+62 (086) 771 2700,Gg. Setiabudhi No. 5,Jakarta Pusat,Jakarta
+872,PT Wulandari Natsir (Persero) Tbk,+62-756-182-6681,Jl. Laswi No. 9,Tangerang,Banten
+873,CV Thamrin Pertiwi Tbk,081 047 1028,Gg. Tubagus Ismail No. 9,Jakarta Timur,Jakarta
+874,CV Thamrin,081 152 2745,Jalan M.T Haryono No. 82,Jakarta Timur,Jakarta
+875,UD Rajasa Permata,+62 (49) 612-3689,Jl. Rawamangun No. 0,Jakarta Barat,Jakarta
+876,UD Mandala,+62 (049) 610 2698,Gg. K.H. Wahid Hasyim No. 38,Bekasi,Jawa Barat
+877,PT Prabowo Tbk,(079) 535-1277,Jalan Tebet Barat Dalam No. 1,Jakarta Selatan,Jakarta
+878,PD Melani (Persero) Tbk,+62 (59) 359 7367,Gg. Rajawali Timur No. 651,Jakarta Utara,Jakarta
+879,PD Kusmawati Winarsih,+62 (0884) 518-0020,Gg. Rumah Sakit No. 4,Tangerang Selatan,Banten
+880,PT Gunarto Tbk,+62-006-422-0164,Gg. Kutisari Selatan No. 9,Jakarta Utara,Jakarta
+881,PT Nababan Rajata (Persero) Tbk,+62 (053) 358-6076,Jalan Gardujati No. 011,Jakarta Utara,Jakarta
+882,PT Adriansyah,+62 (0536) 691-4734,Jl. Kendalsari No. 89,Jakarta Pusat,Jakarta
+883,PT Maheswara,+62 (400) 792 5071,Gg. Kebonjati No. 40,Tangerang,Banten
+884,PD Maryadi Tbk,086 098 5486,Gang Bangka Raya No. 023,Jakarta Utara,Jakarta
+885,UD Purnawati Damanik,0860570458,Jalan Pasteur No. 160,Jakarta Utara,Jakarta
+886,Perum Rajasa,+62-043-041-7304,Jl. Jend. Sudirman No. 007,Bogor,Jawa Barat
+887,UD Widodo Anggraini,+62-47-929-1747,Jl. Pelajar Pejuang No. 436,Jakarta Timur,Jakarta
+888,PD Prasetya Farida,+62 (517) 875-6732,Gang Indragiri No. 8,Depok,Jawa Barat
+889,Perum Sihombing Yolanda,+62-583-070-1018,Jalan Cihampelas No. 3,Jakarta Pusat,Jakarta
+890,PT Tarihoran,086 963 8154,Gg. Surapati No. 70,Jakarta Barat,Jakarta
+891,Perum Saptono Gunarto,(0360) 581 9071,Jl. Pasteur No. 823,Jakarta Timur,Jakarta
+892,UD Lazuardi,+62-0730-819-5111,Gang S. Parman No. 89,Jakarta Selatan,Jakarta
+893,PD Sihombing Tbk,+62 (437) 458-8988,Gg. Ciumbuleuit No. 0,Jakarta Timur,Jakarta
+894,PT Thamrin Nainggolan,+62-54-044-9530,Gang Cikapayang No. 3,Bogor,Jawa Barat
+895,PT Ramadan Sihombing Tbk,0835491803,Jl. BKR No. 400,Bekasi,Jawa Barat
+896,PT Latupono Tbk,+62 (197) 292 8437,Jalan Yos Sudarso No. 06,Jakarta Timur,Jakarta
+897,PD Prasetyo Kurniawan,(0252) 712-9798,Jalan Surapati No. 161,Jakarta Timur,Jakarta
+898,PT Aryani Tbk,(0239) 573-2689,Jl. M.T Haryono No. 064,Jakarta Pusat,Jakarta
+899,Perum Saragih Suryatmi,0812094429,Jl. PHH. Mustofa No. 05,Jakarta Barat,Jakarta
+900,CV Nugroho Tbk,+62 (829) 112 8699,Jl. Lembong No. 1,Bekasi,Jawa Barat
+901,PD Kurniawan Salahudin,+62-0023-495-1062,Jalan Kebonjati No. 3,Tangerang,Banten
+902,UD Nuraini Mandasari Tbk,+62 (131) 604 9890,Jl. Rajawali Barat No. 76,Jakarta Barat,Jakarta
+903,CV Hasanah Uyainah (Persero) Tbk,+62-048-094-5075,Gg. PHH. Mustofa No. 34,Jakarta Utara,Jakarta
+904,PT Wijaya Haryanti (Persero) Tbk,(0624) 599-9988,Gg. Kapten Muslihat No. 29,Depok,Jawa Barat
+905,UD Hutapea Adriansyah (Persero) Tbk,+62-0792-471-4612,Jalan Abdul Muis No. 4,Jakarta Timur,Jakarta
+906,UD Simbolon,(0743) 424-0430,Gang Cempaka No. 23,Jakarta Timur,Jakarta
+907,UD Suwarno Melani (Persero) Tbk,+62 (729) 229 1391,Jl. Cihampelas No. 6,Jakarta Utara,Jakarta
+908,PD Suryatmi (Persero) Tbk,+62 (29) 270 7294,Jl. BKR No. 109,Jakarta Selatan,Jakarta
+909,CV Lazuardi Kurniawan (Persero) Tbk,+62 (71) 747 2586,Gang Asia Afrika No. 4,Depok,Jawa Barat
+910,Perum Hutasoit,(070) 043 3343,Gang R.E Martadinata No. 9,Jakarta Barat,Jakarta
+911,UD Hartati,086 602 1594,Gg. Otto Iskandardinata No. 446,Bekasi,Jawa Barat
+912,Perum Narpati,+62 (005) 108-5572,Gang Rajawali Barat No. 6,Jakarta Selatan,Jakarta
+913,UD Gunawan Simbolon (Persero) Tbk,+62-99-684-1369,Gang Rumah Sakit No. 750,Jakarta Timur,Jakarta
+914,PT Rahmawati Marpaung Tbk,+62 (0680) 210-0052,Gang Kiaracondong No. 22,Bekasi,Jawa Barat
+915,UD Prasasta Suryatmi Tbk,+62 (29) 879 0478,Jl. S. Parman No. 950,Bekasi,Jawa Barat
+916,PD Wijayanti Budiyanto,(013) 506-1419,Gang H.J Maemunah No. 48,Jakarta Pusat,Jakarta
+917,Perum Rajata Suryatmi,+62 (51) 831-9853,Jl. Waringin No. 7,Jakarta Utara,Jakarta
+918,PD Wahyudin Mayasari (Persero) Tbk,+62 (028) 759 6710,Gang Sukabumi No. 733,Bekasi,Jawa Barat
+919,CV Hutagalung Mayasari,0891779706,Gg. Raya Ujungberung No. 35,Jakarta Selatan,Jakarta
+920,PD Sitorus Yuniar (Persero) Tbk,+62 (0494) 605-8368,Gang Rajawali Barat No. 9,Bekasi,Jawa Barat
+921,PT Prasetya,+62 (605) 731-4843,Gang Gegerkalong Hilir No. 553,Tangerang,Banten
+922,PT Pradana Palastri (Persero) Tbk,081 168 6266,Gg. Kutai No. 51,Jakarta Selatan,Jakarta
+923,PT Nainggolan (Persero) Tbk,+62 (0001) 958-9280,Jl. Cikapayang No. 44,Jakarta Utara,Jakarta
+924,CV Samosir Laksmiwati (Persero) Tbk,+62 (0238) 044 7982,Jl. Rumah Sakit No. 9,Depok,Jawa Barat
+925,PD Napitupulu Hariyah Tbk,+62-64-881-4002,Jl. W.R. Supratman No. 60,Tangerang Selatan,Banten
+926,Perum Astuti Tbk,+62-16-988-0814,Gang Kendalsari No. 9,Tangerang Selatan,Banten
+927,PD Wibisono Saptono,(0778) 671 0939,Gang Rumah Sakit No. 80,Jakarta Barat,Jakarta
+928,UD Januar Prayoga,082 914 9403,Jalan Sukabumi No. 83,Jakarta Selatan,Jakarta
+929,PT Safitri Nashiruddin,+62 (037) 100-9686,Jl. Ciwastra No. 151,Tangerang Selatan,Banten
+930,PT Hardiansyah Latupono (Persero) Tbk,+62 (077) 952-4754,Jalan Sukabumi No. 351,Jakarta Pusat,Jakarta
+931,Perum Marpaung Simbolon Tbk,+62 (205) 582-8085,Jl. Pasir Koja No. 1,Bekasi,Jawa Barat
+932,UD Budiman (Persero) Tbk,087 366 4977,Jl. Veteran No. 47,Bekasi,Jawa Barat
+933,PD Latupono Saragih,+62 (075) 423 0383,Gg. Otto Iskandardinata No. 50,Jakarta Utara,Jakarta
+934,CV Aryani,(0905) 416 6642,Gg. KH Amin Jasuta No. 84,Depok,Jawa Barat
+935,Perum Susanti Simbolon,+62 (39) 798 0710,Gg. Jend. A. Yani No. 748,Jakarta Utara,Jakarta
+936,Perum Wahyudin,0862499550,Jalan Sukabumi No. 9,Jakarta Utara,Jakarta
+937,UD Puspasari,+62-792-985-4826,Jl. Peta No. 381,Jakarta Timur,Jakarta
+938,PT Permata Prabowo Tbk,+62 (055) 380-9662,Gang Jend. A. Yani No. 8,Jakarta Selatan,Jakarta
+939,UD Ardianto Rahimah,+62 (0164) 142 3011,Gang Lembong No. 6,Jakarta Pusat,Jakarta
+940,UD Wibowo Firgantoro,+62-824-982-6928,Jalan Rajawali Timur No. 238,Jakarta Timur,Jakarta
+941,PT Fujiati,087 440 0070,Jalan Kutisari Selatan No. 8,Bekasi,Jawa Barat
+942,Perum Winarno Puspasari,+62-023-347-4703,Gang Bangka Raya No. 710,Jakarta Timur,Jakarta
+943,Perum Nugroho Hariyah,080 111 9075,Gg. Raya Setiabudhi No. 75,Jakarta Timur,Jakarta
+944,Perum Novitasari Saragih,0872579511,Jl. Moch. Toha No. 90,Jakarta Barat,Jakarta
+945,PT Utami,+62 (839) 438-4576,Jalan Ir. H. Djuanda No. 71,Jakarta Timur,Jakarta
+946,Perum Mayasari (Persero) Tbk,+62-24-090-9968,Jalan Dr. Djunjunan No. 97,Jakarta Timur,Jakarta
+947,PD Wijayanti Latupono (Persero) Tbk,+62-074-382-6390,Gang BKR No. 5,Depok,Jawa Barat
+948,PT Winarno Mansur (Persero) Tbk,+62-0193-024-2290,Jalan Suniaraja No. 160,Jakarta Barat,Jakarta
+949,CV Haryanti,086 701 7525,Gg. Medokan Ayu No. 739,Bogor,Jawa Barat
+950,CV Mayasari Maryadi (Persero) Tbk,+62 (044) 026 5357,Jl. Ciwastra No. 78,Bekasi,Jawa Barat
+951,PT Winarno (Persero) Tbk,084 918 3287,Gg. Gegerkalong Hilir No. 5,Tangerang Selatan,Banten
+952,PD Anggriawan Sinaga,+62-044-573-6403,Jl. Moch. Ramdan No. 0,Jakarta Pusat,Jakarta
+953,CV Oktaviani Tbk,+62 (0197) 614 3394,Gg. Siliwangi No. 17,Tangerang,Banten
+954,CV Anggraini Hidayanto,(0528) 578-3775,Gg. Raya Ujungberung No. 313,Jakarta Barat,Jakarta
+955,PD Hidayanto Zulaika (Persero) Tbk,+62-0259-579-6532,Jalan Yos Sudarso No. 95,Tangerang,Banten
+956,PT Nurdiyanti Firmansyah (Persero) Tbk,(0136) 344-1530,Jalan Kebonjati No. 689,Jakarta Timur,Jakarta
+957,CV Sirait,+62 (078) 458 4509,Jl. Waringin No. 75,Jakarta Barat,Jakarta
+958,PD Hutapea Halim Tbk,+62 (685) 911-1825,Jl. Otto Iskandardinata No. 48,Jakarta Utara,Jakarta
+959,PD Adriansyah (Persero) Tbk,+62-0184-495-8981,Jl. Moch. Toha No. 767,Bekasi,Jawa Barat
+960,PD Pratama Najmudin Tbk,+62 (0937) 444 0006,Gang Pasirkoja No. 05,Jakarta Utara,Jakarta
+961,UD Laksmiwati Permata Tbk,+62-60-034-2354,Gg. Abdul Muis No. 9,Tangerang,Banten
+962,PD Siregar,0859948451,Jl. Ciwastra No. 1,Tangerang Selatan,Banten
+963,Perum Wastuti Tbk,+62 (43) 591-3497,Gang Stasiun Wonokromo No. 36,Bekasi,Jawa Barat
+964,CV Setiawan Wulandari,(084) 857 5972,Gang Rajawali Timur No. 857,Jakarta Timur,Jakarta
+965,PD Marbun,+62-0716-713-8349,Gang Pasteur No. 1,Tangerang,Banten
+966,UD Fujiati Pradipta Tbk,(014) 951-7100,Jalan Suryakencana No. 63,Jakarta Selatan,Jakarta
+967,CV Suwarno Suryatmi,+62-88-547-5665,Gg. Astana Anyar No. 3,Jakarta Barat,Jakarta
+968,CV Sinaga (Persero) Tbk,081 288 4529,Gg. Monginsidi No. 3,Jakarta Timur,Jakarta
+969,UD Suwarno Saragih Tbk,+62-0285-770-6386,Jl. Ronggowarsito No. 3,Bogor,Jawa Barat
+970,Perum Damanik Tbk,+62 (091) 858-2338,Gang Peta No. 04,Bogor,Jawa Barat
+971,PT Hutagalung,+62 (059) 448-1650,Gang Raya Setiabudhi No. 03,Jakarta Selatan,Jakarta
+972,PD Natsir Tbk,+62 (118) 748-2639,Gg. Yos Sudarso No. 265,Tangerang Selatan,Banten
+973,Perum Hastuti Nashiruddin Tbk,+62-340-824-6926,Jalan M.H Thamrin No. 6,Jakarta Timur,Jakarta
+974,Perum Hutasoit,+62-769-992-4361,Gg. Ciumbuleuit No. 9,Bogor,Jawa Barat
+975,UD Prastuti Namaga Tbk,(011) 626 8729,Gg. Pasir Koja No. 65,Depok,Jawa Barat
+976,Perum Haryanti Pradipta,+62 (044) 190 0380,Jalan Moch. Toha No. 823,Tangerang Selatan,Banten
+977,PD Sihombing Tbk,(045) 747 1117,Gg. Sukabumi No. 48,Tangerang,Banten
+978,UD Pudjiastuti,+62 (408) 774-1125,Gg. Abdul Muis No. 952,Tangerang,Banten
+979,PT Rajata Tbk,(0645) 756 0169,Jl. Cihampelas No. 165,Jakarta Timur,Jakarta
+980,PT Hutagalung Lestari,+62 (0226) 388-4362,Gang Jayawijaya No. 987,Depok,Jawa Barat
+981,CV Najmudin Mustofa,(0722) 987 4265,Gang Ahmad Dahlan No. 006,Depok,Jawa Barat
+982,PT Prakasa Mayasari (Persero) Tbk,+62 (031) 883-3495,Jl. Setiabudhi No. 3,Jakarta Timur,Jakarta
+983,PD Laksmiwati Nainggolan Tbk,+62-26-758-7331,Jl. Rajawali Barat No. 906,Bekasi,Jawa Barat
+984,CV Wijayanti,+62-0384-619-3882,Gg. PHH. Mustofa No. 604,Jakarta Utara,Jakarta
+985,PT Adriansyah Wijaya (Persero) Tbk,+62 (87) 161 0804,Jl. Bangka Raya No. 2,Bekasi,Jawa Barat
+986,PT Sihombing Tbk,+62 (06) 932 9352,Jl. Kebonjati No. 35,Tangerang Selatan,Banten
+987,PT Mayasari,(0750) 626-4215,Jl. Cikutra Timur No. 39,Bogor,Jawa Barat
+988,PD Kurniawan,+62-646-350-3403,Gang Pasir Koja No. 8,Jakarta Timur,Jakarta
+989,Perum Yuliarti (Persero) Tbk,0834521656,Gang Ir. H. Djuanda No. 16,Tangerang Selatan,Banten
+990,PT Wastuti Padmasari (Persero) Tbk,(0599) 834-6327,Gg. Ahmad Dahlan No. 8,Jakarta Timur,Jakarta
+991,PD Yuniar Farida,+62 (0365) 906 7565,Gang Rajawali Barat No. 8,Bekasi,Jawa Barat
+992,PT Tampubolon Iswahyudi,+62-775-442-0297,Jl. Raya Setiabudhi No. 741,Tangerang Selatan,Banten
+993,PD Hakim Simbolon,0863612423,Jalan Raya Setiabudhi No. 51,Bogor,Jawa Barat
+994,PT Halim Tbk,+62 (0760) 558 2421,Gang Medokan Ayu No. 131,Jakarta Utara,Jakarta
+995,CV Mulyani,+62 (054) 203-3965,Jalan Surapati No. 4,Jakarta Selatan,Jakarta
+996,Perum Andriani Yuniar,085 463 4021,Gg. Moch. Toha No. 2,Jakarta Utara,Jakarta
+997,PD Puspasari (Persero) Tbk,+62 (39) 078-2523,Gang Indragiri No. 9,Jakarta Selatan,Jakarta
+998,PT Nababan Hutapea,(063) 297 2763,Jl. Rajawali Timur No. 3,Depok,Jawa Barat
+999,Perum Rahayu,+62 (32) 147-3200,Gg. Pasirkoja No. 19,Bogor,Jawa Barat
+1000,Perum Sitorus Maryadi,+62-756-211-9195,Jl. Raya Ujungberung No. 30,Jakarta Barat,Jakarta

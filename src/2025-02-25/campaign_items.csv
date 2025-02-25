@@ -1,0 +1,57 @@
+campaign_item_id,campaign_id,campaign_type,name
+2,1,Category,frozen
+3,1,Category,chicken_duck
+6,1,Category,rice
+1,3,Category,noodles
+3,3,Category,chicken_duck
+4,3,Category,coffee
+3,4,Category,chicken_duck
+4,4,Category,coffee
+5,4,Category,beverages
+1,5,Category,noodles
+2,5,Category,frozen
+3,5,Category,chicken_duck
+5,5,Category,beverages
+2,9,Category,frozen
+3,9,Category,chicken_duck
+5,9,Category,beverages
+6,9,Category,rice
+8,2,Product,Chicken Shawarma
+45,2,Product,Frozen Hash Browns
+64,2,Product,Iced Latte
+113,2,Product,Duck Breast with Cherry Sauce
+114,2,Product,Macchiato
+120,2,Product,Frozen Lasagna
+16,6,Product,Egg Fried Rice
+43,6,Product,Frozen Fries
+53,6,Product,Jasmine Tea
+56,6,Product,Pilaf
+57,6,Product,Frozen Falafel
+77,6,Product,Chicken Parmesan
+103,6,Product,Chicken Fried Rice
+137,6,Product,Affogato
+12,7,Product,Darjeeling Tea
+22,7,Product,Frozen Grilled Cheese Sandwich
+38,7,Product,Carbonara
+42,7,Product,Ramen
+47,7,Product,Americano
+152,7,Product,Frozen Mac and Cheese
+53,8,Product,Jasmine Tea
+102,8,Product,Frozen Pies
+111,8,Product,Flat White
+131,8,Product,Iced Mocha
+15,10,Product,Lasagna
+18,10,Product,Frozen Fries with Cheese
+32,10,Product,Honey Almondmilk Flat White
+36,10,Product,Vienna Coffee
+79,10,Product,Cortado
+151,10,Product,Blueberry Smoothie
+4,11,Product,Duck Foie Gras
+13,11,Product,Risotto
+15,11,Product,Lasagna
+29,11,Product,Frozen Soups
+46,11,Product,Buffalo Wings
+56,11,Product,Pilaf
+74,11,Product,Peking Duck
+111,11,Product,Flat White
+122,11,Product,Lemon Herb Chicken

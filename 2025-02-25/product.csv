@@ -1,0 +1,153 @@
+product_id,name,price,description,category_id,image_url
+1,Japchae,72500,"A Korean dish made with stir-fried sweet potato noodles, vegetables, and a mix of savory seasonings, often with beef or pork.",1,https://fake.pacmann.io/img/1.jpg
+2,Frozen Tater Tots,35000,"Small, grated potatoes formed into rounds and frozen for easy baking or frying into crispy golden bites.",2,https://fake.pacmann.io/img/2.jpg
+3,Frozen Hot Pockets,32000,"Microwaveable pastries filled with a variety of fillings like cheese, pepperoni, or chicken, frozen for convenience.",2,https://fake.pacmann.io/img/3.jpg
+4,Duck Foie Gras,112500,"A luxurious French delicacy made from the liver of a duck, typically served as a pâté or terrine.",3,https://fake.pacmann.io/img/4.jpg
+5,Mee Goreng,66000,"A flavorful and spicy stir-fried noodle dish from Indonesia, made with yellow noodles, vegetables, tofu, shrimp, and a mix of sauces.",1,https://fake.pacmann.io/img/5.jpg
+6,Frozen Pancakes,58000,"Pre-cooked pancakes, ready to heat and serve, typically served with syrup and butter.",2,https://fake.pacmann.io/img/6.jpg
+7,Nitro Coffee,29500,"Cold brew coffee infused with nitrogen gas, creating a smooth, creamy texture and a foamy head.",4,https://fake.pacmann.io/img/7.jpg
+8,Chicken Shawarma,92000,"A Middle Eastern dish made with marinated, spiced chicken that is slow-cooked on a vertical rotisserie and served in a pita or flatbread with vegetables.",3,https://fake.pacmann.io/img/8.jpg
+9,Strawberry Lemonade,34000,"A sweet and tangy lemonade blended with fresh strawberries, creating a pink-hued, fruity drink perfect for summer.",5,https://fake.pacmann.io/img/9.jpg
+10,Frozen Croissants,58500,"Unbaked croissants that are frozen and then baked fresh at home for a flaky, buttery breakfast treat.",2,https://fake.pacmann.io/img/10.jpg
+11,Frozen Sausage Links,48000,Pre-cooked sausage links that are frozen and ready to heat for breakfast or dinner.,2,https://fake.pacmann.io/img/11.jpg
+12,Darjeeling Tea,26000,"A delicate black tea from India, often referred to as the 'Champagne of teas,' known for its floral aroma and light, muscatel flavor.",5,https://fake.pacmann.io/img/12.jpg
+13,Risotto,40500,"An Italian dish made with short-grain rice cooked in a creamy broth, often combined with vegetables, meat, or seafood.",6,https://fake.pacmann.io/img/13.jpg
+14,Smoked Duck Breast,105000,"Duck breast cured and smoked to infuse a rich, smoky flavor, typically served thinly sliced as an appetizer or on a salad.",3,https://fake.pacmann.io/img/14.jpg
+15,Lasagna,74500,"A layered Italian pasta dish made with wide noodles, meat sauce, cheese, and béchamel sauce, baked to perfection.",1,https://fake.pacmann.io/img/15.jpg
+16,Egg Fried Rice,46500,"A Chinese dish made with stir-fried rice and scrambled eggs, often combined with vegetables, meat, and soy sauce for a savory meal.",6,https://fake.pacmann.io/img/16.jpg
+17,Laksa,75500,"A spicy noodle soup popular in Southeast Asia, typically made with rice noodles, coconut milk, and a rich, spicy broth, often served with shrimp or chicken.",1,https://fake.pacmann.io/img/17.jpg
+18,Frozen Fries with Cheese,61500,"French fries topped with melted cheese, frozen for a quick and indulgent snack or side dish.",2,https://fake.pacmann.io/img/18.jpg
+19,Noodle Kugel,67500,"A traditional Jewish casserole made with egg noodles, cottage cheese, eggs, sugar, and cinnamon, often served as a side dish or dessert.",1,https://fake.pacmann.io/img/19.jpg
+20,Frozen Vegetables,65500,"A variety of frozen vegetables like peas, carrots, corn, and spinach, ready to cook and serve.",2,https://fake.pacmann.io/img/20.jpg
+21,Sushi Rice,67500,"Sticky, vinegared rice used to make sushi rolls or served with sashimi, often paired with raw fish or vegetables.",6,https://fake.pacmann.io/img/21.jpg
+22,Frozen Grilled Cheese Sandwich,39000,"A pre-made grilled cheese sandwich, frozen for a quick and easy lunch or dinner option.",2,https://fake.pacmann.io/img/22.jpg
+23,Pu-erh Tea,39000,"A fermented tea from China, with a deep, earthy flavor that improves with age, often enjoyed by tea connoisseurs.",5,https://fake.pacmann.io/img/23.jpg
+24,Biryani,65000,"A flavorful South Asian rice dish made by layering marinated meat (often chicken, lamb, or beef) with fragrant basmati rice, spices, and herbs.",6,https://fake.pacmann.io/img/24.jpg
+25,Hibiscus Tea,26000,"A vibrant red herbal tea made from dried hibiscus flowers, known for its tart flavor and rich vitamin C content.",5,https://fake.pacmann.io/img/25.jpg
+26,Frozen Burrito Bowls,31000,"Mexican-inspired rice bowls with beans, cheese, and meat or vegetables, frozen for a quick meal.",2,https://fake.pacmann.io/img/26.jpg
+27,Chicken Souvlaki,82500,"A Greek dish made with marinated chunks of chicken skewered and grilled, often served with pita bread, tzatziki sauce, and salad.",3,https://fake.pacmann.io/img/27.jpg
+28,Matcha,24000,"A powdered green tea from Japan, whisked into water to create a rich, creamy, and earthy beverage full of antioxidants.",5,https://fake.pacmann.io/img/28.jpg
+29,Frozen Soups,39000,"A variety of soups like tomato, chicken noodle, or vegetable, frozen for quick reheating.",2,https://fake.pacmann.io/img/29.jpg
+30,Chow Mein,59000,"A Chinese dish of stir-fried noodles, often served with meat, vegetables, and a soy-based sauce, sometimes with crispy noodles.",1,https://fake.pacmann.io/img/30.jpg
+31,Chicken Pot Pie,78000,"A comforting dish made with tender chicken, vegetables, and creamy sauce encased in a flaky pie crust.",3,https://fake.pacmann.io/img/31.jpg
+32,Honey Almondmilk Flat White,26500,"A flat white made with espresso, steamed almond milk, and a touch of honey for a sweet and smooth flavor.",4,https://fake.pacmann.io/img/32.jpg
+33,Duck Confit,105000,"Duck legs slow-cooked in their own fat until tender and crispy, often served with potatoes or greens.",3,https://fake.pacmann.io/img/33.jpg
+34,Turkish Coffee,32000,"A traditional coffee made by boiling finely ground coffee with water and sugar, served unfiltered in small cups.",4,https://fake.pacmann.io/img/34.jpg
+35,Lo Mein,67500,"A Chinese stir-fry dish made with egg noodles, vegetables, and meat (chicken, beef, or shrimp), all tossed in a savory soy-based sauce.",1,https://fake.pacmann.io/img/35.jpg
+36,Vienna Coffee,35000,"A traditional European coffee made with two shots of espresso and whipped cream as a topping, instead of milk.",4,https://fake.pacmann.io/img/36.jpg
+37,Duck Leg Ragu,72000,"Slow-braised duck legs in a rich tomato sauce, served over pasta or mashed potatoes for a comforting meal.",3,https://fake.pacmann.io/img/37.jpg
+38,Carbonara,70500,"An Italian pasta dish made with spaghetti or other pasta, eggs, cheese, pancetta, and black pepper, creating a creamy and savory sauce.",1,https://fake.pacmann.io/img/38.jpg
+39,Cappuccino,33500,"An Italian coffee drink made with equal parts of espresso, steamed milk, and milk foam.",4,https://fake.pacmann.io/img/39.jpg
+40,Fried Rice,69500,"A popular Asian dish made by stir-frying cooked rice with vegetables, meat (like chicken, shrimp, or pork), and soy sauce.",6,https://fake.pacmann.io/img/40.jpg
+41,Chicken Cacciatore,95500,"An Italian dish where chicken is simmered in a tomato-based sauce with onions, garlic, olives, and herbs like rosemary and thyme.",3,https://fake.pacmann.io/img/41.jpg
+42,Ramen,70500,"A Japanese noodle soup dish consisting of Chinese-style wheat noodles in a rich broth, topped with ingredients like pork, boiled eggs, and vegetables.",1,https://fake.pacmann.io/img/42.jpg
+43,Frozen Fries,35000,"Pre-cut potato fries that are frozen for easy baking or frying, offering a crispy texture when cooked.",2,https://fake.pacmann.io/img/43.jpg
+44,Frozen Shrimp,55000,"Shrimp that is frozen to preserve freshness, ready for cooking in a variety of dishes like stir-fries, pastas, or salads.",2,https://fake.pacmann.io/img/44.jpg
+45,Frozen Hash Browns,31500,"Grated or diced potatoes formed into patties or loose shapes, frozen for a quick breakfast side.",2,https://fake.pacmann.io/img/45.jpg
+46,Buffalo Wings,62500,"Deep-fried chicken wings coated in a tangy, spicy Buffalo sauce, often served with celery sticks and blue cheese or ranch dressing.",3,https://fake.pacmann.io/img/46.jpg
+47,Americano,28000,"A coffee drink made by diluting a shot of espresso with hot water, resulting in a coffee similar in strength to drip coffee.",4,https://fake.pacmann.io/img/47.jpg
+48,Frozen Corn Dogs,60000,"Hot dogs coated in a cornmeal batter, deep-fried and frozen for easy reheating.",2,https://fake.pacmann.io/img/48.jpg
+49,Honey Mustard Chicken,99500,"Chicken breasts coated in a sweet and tangy honey mustard sauce, often baked or grilled for a flavorful dish.",3,https://fake.pacmann.io/img/49.jpg
+50,Spaghetti Bolognese,75500,"An Italian pasta dish made with spaghetti noodles topped with a meat-based sauce, often made with ground beef, tomatoes, and herbs.",1,https://fake.pacmann.io/img/50.jpg
+51,Nasi Goreng,58500,"A flavorful Indonesian fried rice dish made with kecap manis (sweet soy sauce), vegetables, meat, and fried eggs, often served with sambal.",6,https://fake.pacmann.io/img/51.jpg
+52,Sticky Rice with Mango,62500,"A traditional Thai dessert made with sweet sticky rice, coconut milk, and fresh mango slices, creating a deliciously sweet and creamy treat.",6,https://fake.pacmann.io/img/52.jpg
+53,Jasmine Tea,33000,"Green or white tea infused with the fragrance of jasmine blossoms, offering a fragrant and floral flavor profile.",5,https://fake.pacmann.io/img/53.jpg
+54,Frozen Tofu,51500,"Blocks of tofu frozen for a firmer texture, often used in stir-fries or other dishes.",2,https://fake.pacmann.io/img/54.jpg
+55,Lemon Rice,70500,"A South Indian dish where rice is flavored with lemon juice, turmeric, mustard seeds, and curry leaves for a tangy and aromatic flavor.",6,https://fake.pacmann.io/img/55.jpg
+56,Pilaf,43000,"A rice dish typically cooked with broth and spices, often combined with vegetables, nuts, or dried fruits for added flavor.",6,https://fake.pacmann.io/img/56.jpg
+57,Frozen Falafel,33000,"Fried chickpea patties, frozen for easy reheating, typically served in pita with vegetables and tahini.",2,https://fake.pacmann.io/img/57.jpg
+58,Mocha,28000,"A chocolate-flavored coffee drink made with espresso, steamed milk, and chocolate syrup, often topped with whipped cream.",4,https://fake.pacmann.io/img/58.jpg
+59,Lemon Ginger Tea,30000,"An herbal tea blend made with ginger root and lemon, offering a spicy, citrusy flavor known for its digestive benefits.",5,https://fake.pacmann.io/img/59.jpg
+60,Frozen Pizza Rolls,42000,"Miniature pizza snacks filled with cheese and tomato sauce, frozen for quick heating and snacking.",2,https://fake.pacmann.io/img/60.jpg
+61,Sichuan Dan Dan Noodles,62000,"A spicy Chinese noodle dish from Sichuan province, made with wheat noodles, chili oil, ground pork, and a sesame paste sauce.",1,https://fake.pacmann.io/img/61.jpg
+62,Beef Noodle Soup,68000,"A hearty soup made with wheat noodles and tender beef, often served in a savory broth with vegetables and herbs, popular in many Asian cuisines.",1,https://fake.pacmann.io/img/62.jpg
+63,Frozen Ravioli,67500,"Pasta pockets filled with cheese, meat, or vegetables, frozen for quick boiling and serving with sauce.",2,https://fake.pacmann.io/img/63.jpg
+64,Iced Latte,30500,"A cold version of the latte, made with espresso, chilled milk, and ice, often sweetened.",4,https://fake.pacmann.io/img/64.jpg
+65,Drip Coffee,25000,"Also known as filter coffee, it is made by brewing ground coffee with hot water, using a drip coffee maker or pour-over method.",4,https://fake.pacmann.io/img/65.jpg
+66,Frozen Vegetable Dumplings,70000,"Dumplings filled with vegetables or tofu, frozen for easy steaming or frying.",2,https://fake.pacmann.io/img/66.jpg
+67,Pad Thai,60000,"A popular Thai stir-fried noodle dish made with rice noodles, eggs, tofu or shrimp, peanuts, bean sprouts, and a tangy tamarind sauce.",1,https://fake.pacmann.io/img/67.jpg
+68,Pho,73500,"A Vietnamese soup made with rice noodles, aromatic herbs, and a flavorful broth, typically served with beef or chicken.",1,https://fake.pacmann.io/img/68.jpg
+69,Lemongrass Tea,20000,"An herbal tea made from the leaves of lemongrass, offering a refreshing, citrusy flavor with light herbal notes.",5,https://fake.pacmann.io/img/69.jpg
+70,Frozen Fruit,63000,"A variety of frozen fruits like berries, mangoes, and peaches, ready to use in smoothies or desserts.",2,https://fake.pacmann.io/img/70.jpg
+71,Chicken and Waffles,106000,"A Southern American dish that pairs crispy fried chicken with fluffy waffles, often served with syrup and butter.",3,https://fake.pacmann.io/img/71.jpg
+72,Orange Juice,21000,"Freshly squeezed orange juice, sweet and tangy, often served chilled for a refreshing breakfast drink.",5,https://fake.pacmann.io/img/72.jpg
+73,Soba,69000,"Japanese buckwheat noodles served hot or cold, typically paired with soy-based dipping sauce or in a hot broth with vegetables and protein.",1,https://fake.pacmann.io/img/73.jpg
+74,Peking Duck,63000,"A famous Chinese dish known for its crispy skin and tender meat, typically served with thin pancakes, hoisin sauce, and sliced vegetables.",3,https://fake.pacmann.io/img/74.jpg
+75,Chicken Marsala,90000,"A classic Italian-American dish made with chicken breasts cooked in a savory Marsala wine sauce, often served with pasta or mashed potatoes.",3,https://fake.pacmann.io/img/75.jpg
+76,Frozen Samosas,52000,"Indian-style pastry pockets filled with spiced potatoes or meat, frozen for easy frying or baking.",2,https://fake.pacmann.io/img/76.jpg
+77,Chicken Parmesan,92500,"Breaded and fried chicken cutlets topped with marinara sauce and melted mozzarella cheese, often served with pasta.",3,https://fake.pacmann.io/img/77.jpg
+78,Rice and Beans,40000,"A staple dish in many cultures, consisting of rice served with seasoned beans, often accompanied by meats, vegetables, or fried plantains.",6,https://fake.pacmann.io/img/78.jpg
+79,Cortado,33500,"A coffee drink consisting of equal parts espresso and steamed milk, resulting in a strong but smooth flavor.",4,https://fake.pacmann.io/img/79.jpg
+80,Chicken Caesar Salad,97000,"A classic salad made with romaine lettuce, grilled chicken, croutons, and Caesar dressing, topped with Parmesan cheese.",3,https://fake.pacmann.io/img/80.jpg
+81,Frozen Chicken Wings,32000,"Pre-cooked or raw chicken wings, frozen for easy baking or frying, often served with dipping sauces.",2,https://fake.pacmann.io/img/81.jpg
+82,Tropical Smoothie,21500,"A refreshing blend of tropical fruits like mango, pineapple, and banana, blended with yogurt or coconut milk for a creamy, refreshing drink.",5,https://fake.pacmann.io/img/82.jpg
+83,Udon,65000,"Thick Japanese wheat noodles served in a hot broth with toppings like tempura, tofu, or green onions, or served cold with dipping sauce.",1,https://fake.pacmann.io/img/83.jpg
+84,Chicken Satay,79000,"A Southeast Asian dish consisting of skewered chicken marinated in a peanut sauce, grilled, and served with a side of extra peanut dipping sauce.",3,https://fake.pacmann.io/img/84.jpg
+85,Tamaales,51000,"A Mexican dish made by wrapping masa (corn dough) with rice, meat, and vegetables in corn husks and steaming them.",6,https://fake.pacmann.io/img/85.jpg
+86,Rooibos Tea,37000,"A caffeine-free herbal tea made from the South African rooibos plant, known for its sweet, slightly nutty flavor.",5,https://fake.pacmann.io/img/86.jpg
+87,Zha Jiang Mian,55000,"A Chinese noodle dish made with wheat noodles topped with a savory sauce made of ground pork, fermented soybeans, and vegetables.",1,https://fake.pacmann.io/img/87.jpg
+88,Milk Tea,29500,"A tea beverage typically made with black tea and milk, sometimes sweetened with sugar or condensed milk, popular in many Asian cultures.",5,https://fake.pacmann.io/img/88.jpg
+89,Frozen Smoothie Packs,35500,"Pre-packaged frozen fruit and vegetable blends, designed for blending into smoothies.",2,https://fake.pacmann.io/img/89.jpg
+90,Chicken Biryani,118000,"A fragrant, spiced rice dish from South Asia made with chicken, basmati rice, yogurt, and a mix of aromatic spices like cumin, cardamom, and saffron.",3,https://fake.pacmann.io/img/90.jpg
+91,Apple Cider,38500,"A warm or chilled drink made from freshly pressed apples, often spiced with cinnamon and cloves for a cozy, autumn-inspired beverage.",5,https://fake.pacmann.io/img/91.jpg
+92,Peach Iced Tea,37000,"A sweetened iced tea flavored with ripe peaches, creating a refreshing, fruity twist on the classic iced tea.",5,https://fake.pacmann.io/img/92.jpg
+93,Frozen Egg Rolls,42000,"Crispy rolls filled with vegetables, meat, or shrimp, frozen for easy frying or baking.",2,https://fake.pacmann.io/img/93.jpg
+94,Pineapple Coconut Cooler,30500,"A tropical drink made with fresh pineapple juice and coconut milk, offering a sweet and creamy flavor reminiscent of a beach vacation.",5,https://fake.pacmann.io/img/94.jpg
+95,Chicken Tikka Masala,108500,A popular Indian dish consisting of marinated chicken cooked in a rich and flavorful tomato-based sauce with spices like garam masala.,3,https://fake.pacmann.io/img/95.jpg
+96,Mango Lassi,28000,"A traditional Indian yogurt-based drink made with ripe mangoes, yogurt, and a touch of cardamom, offering a creamy and exotic flavor.",5,https://fake.pacmann.io/img/96.jpg
+97,Congee,46500,"A Chinese rice porridge, often served as a breakfast dish, topped with savory ingredients like pickled vegetables, meats, or fried dough sticks.",6,https://fake.pacmann.io/img/97.jpg
+98,Frozen Spring Rolls,32500,"Similar to egg rolls but usually filled with vegetables and sometimes shrimp or pork, frozen for quick preparation.",2,https://fake.pacmann.io/img/98.jpg
+99,Grilled Chicken,85500,"Chicken pieces seasoned with herbs and spices, then grilled to perfection, often served with vegetables or a salad.",3,https://fake.pacmann.io/img/99.jpg
+100,Kombucha,25000,"A fermented tea beverage made with sweetened tea and a symbiotic culture of bacteria and yeast (SCOBY), known for its tangy, slightly effervescent taste.",5,https://fake.pacmann.io/img/100.jpg
+101,Chicken Noodle Soup,80000,"A comforting soup made with chicken, vegetables, and noodles in a clear broth, commonly served as a remedy for colds.",3,https://fake.pacmann.io/img/101.jpg
+102,Frozen Pies,68500,"Pre-baked or unbaked pies filled with fruit, cream, or savory ingredients, frozen for convenience.",2,https://fake.pacmann.io/img/102.jpg
+103,Chicken Fried Rice,90500,"A stir-fried rice dish made with cooked rice, diced chicken, vegetables, soy sauce, and scrambled eggs, a popular takeout option.",3,https://fake.pacmann.io/img/103.jpg
+104,Frozen Stuffed Peppers,50000,"Bell peppers filled with rice, meat, or cheese, frozen for easy reheating.",2,https://fake.pacmann.io/img/104.jpg
+105,Rice Pudding,67500,"A sweet dessert made with rice, milk, sugar, and spices like cinnamon or vanilla, often enjoyed warm or chilled.",6,https://fake.pacmann.io/img/105.jpg
+106,Tonkotsu Ramen,65000,"A rich and creamy Japanese ramen soup made with pork bone broth, served with ramen noodles and toppings such as pork belly and green onions.",1,https://fake.pacmann.io/img/106.jpg
+107,Chicken Alfredo,114500,"A creamy pasta dish made with fettuccine noodles, grilled chicken, and a rich Alfredo sauce made from butter, cream, and Parmesan.",3,https://fake.pacmann.io/img/107.jpg
+108,Frozen Chicken Nuggets,37500,"Breaded and pre-cooked bite-sized pieces of chicken, frozen for quick baking or frying.",2,https://fake.pacmann.io/img/108.jpg
+109,Duck Wellington,75000,"A variation of beef Wellington, made with duck breast wrapped in puff pastry along with mushroom duxelles and pâté.",3,https://fake.pacmann.io/img/109.jpg
+110,Frozen Chicken Pot Pie,42000,"A savory pie filled with chicken, vegetables, and a creamy sauce, frozen for a convenient meal.",2,https://fake.pacmann.io/img/110.jpg
+111,Flat White,29000,"A coffee drink consisting of a shot of espresso topped with steamed milk, similar to a latte but with a higher ratio of coffee to milk.",4,https://fake.pacmann.io/img/111.jpg
+112,Frozen Fish Sticks,64000,"Breaded and pre-cooked fish fillets, usually made from white fish, frozen for quick preparation.",2,https://fake.pacmann.io/img/112.jpg
+113,Duck Breast with Cherry Sauce,99500,"Seared duck breast served with a rich cherry sauce, balancing sweet and savory flavors.",3,https://fake.pacmann.io/img/113.jpg
+114,Macchiato,34000,"An espresso topped with a small amount of steamed milk or milk foam, providing a strong coffee flavor with a hint of creaminess.",4,https://fake.pacmann.io/img/114.jpg
+115,Frozen Burritos,50500,"Mexican-inspired wraps filled with rice, beans, cheese, and meat or vegetables, frozen for a quick meal.",2,https://fake.pacmann.io/img/115.jpg
+116,Grapefruit Juice,34000,"A tangy and slightly bitter juice made from freshly squeezed grapefruit, often enjoyed as a breakfast drink or as a refreshing pick-me-up.",5,https://fake.pacmann.io/img/116.jpg
+117,Frozen Onion Rings,37000,"Breaded onion slices, frozen for easy frying or baking into a crispy snack.",2,https://fake.pacmann.io/img/117.jpg
+118,Paella,60000,"A traditional Spanish dish made with rice, saffron, vegetables, and a variety of seafood, chicken, or rabbit, cooked in a single pan.",6,https://fake.pacmann.io/img/118.jpg
+119,Frozen Calzones,68000,"Italian-style stuffed pizza pockets filled with cheese, meat, or vegetables, frozen for easy reheating.",2,https://fake.pacmann.io/img/119.jpg
+120,Frozen Lasagna,36500,"A layered pasta dish made with meat or vegetable sauce, cheese, and pasta, frozen for easy preparation.",2,https://fake.pacmann.io/img/120.jpg
+121,Dolma,48000,"A Middle Eastern dish where grape leaves are stuffed with a mixture of rice, vegetables, and sometimes meat, then rolled and cooked.",6,https://fake.pacmann.io/img/121.jpg
+122,Lemon Herb Chicken,117500,"Chicken marinated in a mixture of lemon juice, garlic, and fresh herbs, then grilled or baked for a zesty, flavorful meal.",3,https://fake.pacmann.io/img/122.jpg
+123,Iced Tea,32500,"Tea served cold, often sweetened and flavored with fruits like lemon, peach, or berries, popular during hot weather.",5,https://fake.pacmann.io/img/123.jpg
+124,Crispy Chicken Sandwich,88500,"A sandwich made with breaded and fried chicken fillets, served in a bun with lettuce, pickles, and sauce, a popular fast-food item.",3,https://fake.pacmann.io/img/124.jpg
+125,Frozen Pizza,64500,"A ready-to-bake pizza with various toppings like cheese, pepperoni, vegetables, or meat, stored frozen for convenience.",2,https://fake.pacmann.io/img/125.jpg
+126,Yerba Mate,35500,"A South American herbal tea made from the leaves of the yerba mate plant, known for its energizing properties and unique, herbal flavor.",5,https://fake.pacmann.io/img/126.jpg
+127,Frozen Bread,43500,"Loafs of bread, rolls, or baguettes frozen for easy defrosting and baking.",2,https://fake.pacmann.io/img/127.jpg
+128,Arroz Con Pollo,44500,"A Latin American dish made with rice, chicken, vegetables, and seasonings, often simmered together to create a flavorful one-pot meal.",6,https://fake.pacmann.io/img/128.jpg
+129,Mac and Cheese,59000,"A classic American comfort food made with elbow macaroni noodles and a creamy cheese sauce, often topped with breadcrumbs.",1,https://fake.pacmann.io/img/129.jpg
+130,Ristretto,31000,"A more concentrated version of espresso, made with less water for a richer, more intense flavor.",4,https://fake.pacmann.io/img/130.jpg
+131,Iced Mocha,27000,"A cold mocha coffee drink made with espresso, chilled milk, chocolate syrup, and ice, usually topped with whipped cream.",4,https://fake.pacmann.io/img/131.jpg
+132,Watermelon Juice,34500,"A refreshing and hydrating beverage made by blending fresh watermelon, sometimes with a touch of lime for added zest.",5,https://fake.pacmann.io/img/132.jpg
+133,Cilantro Lime Rice,60500,"A simple rice dish made by mixing cooked rice with fresh lime juice, cilantro, and a hint of garlic for a bright and refreshing flavor.",6,https://fake.pacmann.io/img/133.jpg
+134,Latte,35000,"A creamy coffee drink made with espresso and steamed milk, topped with a thin layer of milk foam.",4,https://fake.pacmann.io/img/134.jpg
+135,Iced Coffee,35500,"Brewed coffee that is chilled and served over ice, typically sweetened and sometimes flavored with milk or cream.",4,https://fake.pacmann.io/img/135.jpg
+136,Duck Soup,75500,"A hearty soup made with duck meat, vegetables, and herbs, often served with noodles or rice.",3,https://fake.pacmann.io/img/136.jpg
+137,Affogato,25000,A dessert-style coffee made by pouring a shot of hot espresso over a scoop of vanilla ice cream.,4,https://fake.pacmann.io/img/137.jpg
+138,Coconut Rice,57500,"Rice cooked with coconut milk, often served alongside dishes from Southeast Asia and the Caribbean for a creamy, subtly sweet flavor.",6,https://fake.pacmann.io/img/138.jpg
+139,Maki Sushi,70000,"Japanese sushi rolls made with rice, seaweed (nori), and various fillings such as fish, vegetables, or egg, often served with soy sauce.",6,https://fake.pacmann.io/img/139.jpg
+140,Frozen Meatballs,50000,"Pre-cooked or raw meatballs made from ground meat, herbs, and spices, frozen for quick cooking.",2,https://fake.pacmann.io/img/140.jpg
+141,Frozen Cheeseburgers,53000,"Pre-cooked beef patties with cheese, frozen for easy reheating and serving on buns.",2,https://fake.pacmann.io/img/141.jpg
+142,Jollof Rice,41000,"A popular West African dish made with rice, tomatoes, onions, and a blend of spices, often served with fried plantains or grilled meat.",6,https://fake.pacmann.io/img/142.jpg
+143,Cafe au Lait,33500,"A French coffee drink made with equal parts brewed coffee and steamed milk, similar to a latte but using drip coffee instead of espresso.",4,https://fake.pacmann.io/img/143.jpg
+144,Espresso,26500,A concentrated coffee brewed by forcing a small amount of nearly boiling water through finely-ground coffee beans.,4,https://fake.pacmann.io/img/144.jpg
+145,Cold Brew,27500,"Coffee brewed with cold water over an extended period, resulting in a smooth, less acidic, and more concentrated coffee.",4,https://fake.pacmann.io/img/145.jpg
+146,Frozen Waffles,68500,"Pre-made waffles, usually sweet and fluffy, that are frozen for a quick breakfast when toasted.",2,https://fake.pacmann.io/img/146.jpg
+147,Duck à l'Orange,65500,A classic French dish featuring roasted duck served with a sweet and tangy orange sauce.,3,https://fake.pacmann.io/img/147.jpg
+148,Chicken Quesadilla,108000,"A Mexican dish made by stuffing a tortilla with grilled chicken, cheese, and other fillings, then grilled until crispy and golden.",3,https://fake.pacmann.io/img/148.jpg
+149,Egg Noodles with Stir-Fry Vegetables,64500,"A simple Chinese dish made with soft egg noodles stir-fried with an assortment of vegetables, often seasoned with soy sauce and spices.",1,https://fake.pacmann.io/img/149.jpg
+150,Frozen Breakfast Sandwich,53000,"Pre-made breakfast sandwiches filled with eggs, cheese, and meat or vegetables, frozen for a quick breakfast option.",2,https://fake.pacmann.io/img/150.jpg
+151,Blueberry Smoothie,21500,"A blend of blueberries, yogurt, and a touch of honey or banana, creating a nutrient-packed, creamy drink that's both tart and sweet.",5,https://fake.pacmann.io/img/151.jpg
+152,Frozen Mac and Cheese,63500,"Macaroni pasta with a creamy cheese sauce, frozen for a quick comfort food meal.",2,https://fake.pacmann.io/img/152.jpg
