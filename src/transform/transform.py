@@ -33,7 +33,7 @@ def transform_data_category(df1,df2):
         columns_category = ["category_id", 'category_name']
         df_category = df_merge[columns_category]
         df_categoty = df_category.rename(columns={"category_name":"name"})
-        df_categoty_finale = df_categoty.drop_duplicates(subset=['category_id', 'name'],keep="first").reset_index()
+        df_categoty_finale = df_categoty.drop_duplicates(subset=['category_id', 'name'],keep="first")
         print("transform table product berhasil")
         print(df_categoty_finale.head())
         return df_categoty_finale
@@ -50,7 +50,7 @@ def transform_data_tags(df1,df2):
         df_tags_finale = df_tags_finale.rename(columns={"tags" : "tag"})
         print("transform table tags berhasil")
         print(df_tags_finale.head())
-        return df_tags
+        return df_tags_finale
     except:
         "terjadi error pada proses transform table tags"
 
@@ -99,6 +99,7 @@ def transform_data_campaign_items(df1,df2,df3):
 
         df_CampaignItems = pd.concat([df_merge_category, df_merge_product], ignore_index=True)
         
+        df_CampaignItems.columns = ["campaign_item_id","campaign_id","campaign_type","campaign_item"]
 
         print("transform table CampaignItems berhasil")
         print(df_CampaignItems.head())

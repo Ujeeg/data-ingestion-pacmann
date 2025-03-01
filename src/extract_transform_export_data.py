@@ -75,7 +75,7 @@ if __name__ == "__main__":
     print()
 
     print("==================================Export data to csv=========================================>")
-    save_df_to_csv(df_products, filename = "product.csv")
+    save_df_to_csv(df_products_finale, filename = "product.csv")
     save_df_to_csv(df_category_finale, filename = "categories.csv")
     save_df_to_csv(df_tags_finale, filename = "tags.csv")
     save_df_to_csv(df_carts, filename = "charts.csv")

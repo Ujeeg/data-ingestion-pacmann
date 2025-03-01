@@ -1,4 +1,4 @@
-campaign_item_id,campaign_id,campaign_type,name
+campaign_item_id,campaign_id,campaign_type,campaign_item
 2,1,Category,frozen
 3,1,Category,chicken_duck
 6,1,Category,rice
