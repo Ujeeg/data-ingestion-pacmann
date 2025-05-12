@@ -85,9 +85,3 @@
     This project provided me with valuable hands-on experience in designing and building a complete ETL pipeline. The modular design proved to be highly beneficial for code organization and debugging, allowing for easier maintenance and future enhancements.
 
     One of the main challenges was handling data inconsistencies across different sources. I addressed this by implementing robust data validation and transformation rules within the transformation module. This experience reinforced the importance of data quality in ETL processes.
-
-    In future iterations, I would consider incorporating an orchestration tool like Apache Airflow to manage pipeline dependencies and scheduling, enabling more robust and scalable execution. I would also implement unit tests to improve code reliability and ensure that each component functions as expected.
-
-    The skills I gained from this project, including data integration, data transformation, database design, and automation, are highly relevant to the role of a Data Engineer and will be invaluable in my future endeavors.
-
-This README.md is designed to be informative, engaging, and to highlight your skills effectively for a job application. Remember to customize it further to best represent your specific contributions and the nuances of your project. Good luck!
